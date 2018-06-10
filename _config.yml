@@ -1,1 +1,29 @@
-theme: jekyll-theme-slate
+# Dependencies
+highlighter:   rouge   #pygments
+
+gems: 
+  - jekyll-paginate
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Luke You
+tagline:          'Too little time'
+description:      'VP of SMT'
+url:              http://beyondthe.top
+baseurl:          /
+
+author:
+  name:           'Luke You'
+  url:            https://www.researchgate.net/profile/Xianfeng_Li4
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/xigyou
+
+theme: jekyll-theme-dinky
