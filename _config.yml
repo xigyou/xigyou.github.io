@@ -13,6 +13,7 @@ tagline:          'Too little time'
 description:      'VP of SMT'
 url:              http://beyondthe.top
 baseurl:          /
+logo:             https://avatars1.githubusercontent.com/u/8529190?s=460&v=4
 
 author:
   name:           'Luke You'
