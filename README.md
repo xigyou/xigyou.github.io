@@ -13,6 +13,9 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 [Web of Best practices for bioinformatics develop.](https://beyondthe.top/bioinfo-dev/)
 
 
+
+
+
 # 支付宝每天领红包用红包流程
 ## 每天扫一次下面红包二维码领红包，如果不是实体店红包可直接充电费。
 ## 如果是手机上可以长按保存到相册，然后再支付宝——扫一扫——相册——导入二维码
@@ -28,3 +31,5 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 ### 如果花呗红包，记得设置花呗自动还款，设置花呗自动还款方法：打开支付宝——右下角我的——花呗——右下角设置——自动还款设置——确认是全额还款，且支付宝余额或余额宝或绑定的储蓄卡有足够的钱还花呗消费金额就行了。
 
 ### 如果花呗忘记还款会影响个人征信记录，以后贷款办信用卡会有问题。
+
+## 红包会越来越小，后面可以关闭花呗。
