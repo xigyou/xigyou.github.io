@@ -16,7 +16,7 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 # 支付宝每天领红包用红包流程
 ## 每天扫一次下面红包二维码领红包，如果不是实体店红包可直接充电费。
 ## 如果是手机上可以长按保存到相册，然后再支付宝——扫一扫——相册——导入二维码
-![领红包](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/red.jpeg)
+![领红包](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/red.png)
 
 
 ## 如果是实体店红包，可扫描下方二维码支付比领到的红包多1块钱左右的钱用掉红包。
