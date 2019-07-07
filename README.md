@@ -19,7 +19,7 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 
 | command | comments |
 | :- | :- | 
-| [IT](https://beyondthe.top/IT) | [IT](https://beyondthe.top/IT) |
+| [IT](https://beyondthe.top/IT) | [web](https://beyondthe.top/web) |
 
 ## cards:
 
