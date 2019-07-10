@@ -1,9 +1,9 @@
 # 信用卡
+
+## [黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
+
+
 ## 卡片一览
-
-[黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
-
-
 
 | 银行 | 卡片名称 | 推荐理由 | 年费 | 攻略 | 其他 |
 | :- | :- |  :- |  :- |  :- |  :- | 
@@ -30,8 +30,7 @@
 
 [佛系用卡——N张信用卡实用表](https://mp.weixin.qq.com/s/cGQtLC7WZEbksWq8IeyD4w)
 
-[错误代码](http://www.taoyuande.com/shiyong/13.html)   
-[调查表](http://mrw.so/5gG76Z)
+[错误代码](http://www.taoyuande.com/shiyong/13.html)    [调查表](http://mrw.so/5gG76Z)
 
 
 # [福利：支付宝每天领红包用红包流程](https://beyondthe.top/red/)
