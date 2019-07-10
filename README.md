@@ -30,4 +30,4 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 | [cards](https://beyondthe.top/cards) | [cards](https://beyondthe.top/cards) |
 
 
-# [福利：支付宝每天领红包用红包流程](https://beyondthe.top/red/)
+
