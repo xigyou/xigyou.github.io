@@ -31,4 +31,9 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 | [cards](https://beyondthe.top/cards) | [cards](https://beyondthe.top/cards) |
 
 
+# Life
+## insurance:
+| command | comments |
+| :- | :- | 
+| [insurance](https://beyondthe.top/insurance) | [cards](https://beyondthe.top/cards) |
 
