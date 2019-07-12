@@ -4,7 +4,7 @@
 ### [MS office 2016 使用方法](http://www.chinamac.com/download/mac7059.html)
 
 ## [如何用Mac自带软件录屏且只录制屏内或屏外声音](https://www.jianshu.com/p/a8600e490be4)
-
+### [Soundflower-2.0b2.dmg下载](https://beyondthe.top/soft/Soundflower-2.0b2.dmg)
 
 # hardware
 ## 
