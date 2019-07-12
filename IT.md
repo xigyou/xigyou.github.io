@@ -15,7 +15,7 @@
 [18年5.17千老用户免费提速到200M](https://openapp.10010.com/bj/kdxf/Kdxf_toKdxf.action)
 
 [北京联通300M以上单宽带](https://m.10010.com/queen/new-broadband-web/new-broadband-web.html?activeId=8818100954349604)
-[北京联通1000M单宽带]](https://m.10010.com/queen/new-broadband-web/new-broadband-web.html?activeId=5619061974541252)
+[北京联通1000M单宽带](https://m.10010.com/queen/new-broadband-web/new-broadband-web.html?activeId=5619061974541252)
 [王卡50元200M套餐](https://openapp.10010.com/bj/king/app/header.jsp)
 
 
