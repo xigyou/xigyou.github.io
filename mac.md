@@ -3,8 +3,13 @@
 ### [MS office 2016 激活软件](https://beyondthe.top/soft/Office%20for%20Mac%202016%20License%20Installer.pkg)
 ### [MS office 2016 使用方法](http://www.chinamac.com/download/mac7059.html)
 
+# Mac自带的QuickTime Player就可以录声音
 ## [如何用Mac自带软件录屏且只录制屏内或屏外声音](https://www.jianshu.com/p/a8600e490be4)
 ### [Soundflower-2.0b2.dmg下载](https://beyondthe.top/soft/Soundflower-2.0b2.dmg)
 ### [Soundflower github](https://github.com/mattingalls/Soundflower/releases)
+
+[五款好用的Mac录屏软件推荐](http://baijiahao.baidu.com/s?id=1602506514171503088&wfr=spider&for=pc)
+
+
 # hardware
 ## 
