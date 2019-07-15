@@ -9,7 +9,7 @@
 
 ## 宽带
 
-### 联通（最佳安装时机每年5.17世界通讯日5折）
+### 北京联通（最佳安装时机每年5.17世界通讯日5折）
 
 [北京联通66元50M宽带](https://openapp.10010.com/bj/single/to_singleBill.action?channel=BDWZX1025)
 
@@ -22,9 +22,12 @@
 [王卡50元200M套餐](https://openapp.10010.com/bj/king/app/header.jsp)
 
 
-### 联通企业宽带
+### 北京联通企业宽带
 
 [北京联通光快线+](http://openapp.10010.com/bj/lightfast/to_lightfastline.action)
+
+### 北京移动企业宽带
+[小微宽带商务版](http://group.bj.chinamobile.com/index/solutionnew/standardproduct/hlwkd/)
 
 
 ### 综合
