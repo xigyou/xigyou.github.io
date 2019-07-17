@@ -33,3 +33,7 @@
 ### 综合
 [Dell保修查询](https://www.dell.com/support/home/cn/zh/cnbsd1/products/?app=warranty)
 [Intel保修查询](https://supporttickets.intel.com/warrantyinfo?lang=zh-CN)
+
+
+## 邮箱
+### [各种邮箱pop，SMTP设置](https://cloud.tencent.com/developer/article/1137134)
