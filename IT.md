@@ -30,6 +30,11 @@
 [小微宽带商务版](http://group.bj.chinamobile.com/index/solutionnew/standardproduct/hlwkd/)
 
 
+## 5G
+### [联通5G先锋计划](http://5g.woego.cn/woego/html/5G_web/index_xianfeng.html)
+
+
+
 ### 综合
 [Dell保修查询](https://www.dell.com/support/home/cn/zh/cnbsd1/products/?app=warranty)
 [Intel保修查询](https://supporttickets.intel.com/warrantyinfo?lang=zh-CN)
