@@ -1,3 +1,9 @@
+# skills
+## 打印机相关
+[共享极路由上的USB打印机](https://stray.love/hiwifi/ji-lu-you-virualhere-jiao-cheng)
+[VirtualHere USB Client](http://www.virtualhere.com/usb_client_software)
+
+
 ## Hardware
 
 ### 硬盘
