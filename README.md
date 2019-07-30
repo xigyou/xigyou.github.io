@@ -32,7 +32,9 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 
 
 # [Life](https://beyondthe.top/life)
+
 ## insurance:
+
 | command | comments |
 | :- | :- | 
 | [insurance](https://beyondthe.top/insurance) | [cards](https://beyondthe.top/cards) |
