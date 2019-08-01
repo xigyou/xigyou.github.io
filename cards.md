@@ -33,6 +33,7 @@
 
 ## 网上资源
 
+[17行信用卡积分兑换里程权益路径汇总](https://mp.weixin.qq.com/s/m8YVh3UsRID4G5YaSbuUVQ)
 
 [2019年最新表格汇总：龙腾+接送机+延误险+多倍积分...](https://mp.weixin.qq.com/s/xRHmhUhVWvkw7_Yx6lOByg) 
 
