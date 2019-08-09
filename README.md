@@ -24,6 +24,9 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 | [IT](https://beyondthe.top/IT) | [web](https://beyondthe.top/web) |
 | [Mac](https://beyondthe.top/mac) | [web](https://beyondthe.top/web) |
 
+# Work
+## [OKR](https://beyondthe.top/OKR)
+
 ## cards:
 
 | command | comments |
