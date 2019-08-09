@@ -4,10 +4,10 @@
 
 # 樊登
 ## 视频资料
-链接: https://pan.baidu.com/s/1Vk1LQWeenmFTXx5-CL-1pg 提取码: hhpe 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: [https://pan.baidu.com/s/1Vk1LQWeenmFTXx5-CL-1pg](https://pan.baidu.com/s/1Vk1LQWeenmFTXx5-CL-1pg) 提取码: hhpe 复制这段内容后打开百度网盘手机App，操作更方便哦
 
-[0331-OKR工作法.jpg](https://beyondthe.top/OKR/0331-OKR工作法.jpg)
-[0331-OKR工作法2.jpg](https://beyondthe.top/OKR/0331-OKR工作法2.jpg)
+![0331-OKR工作法.jpg](https://beyondthe.top/OKR/0331-OKR工作法.jpg)
+![0331-OKR工作法2.jpg](https://beyondthe.top/OKR/0331-OKR工作法2.jpg)
 
 
 
@@ -28,7 +28,10 @@
 [5分钟商学院0807KPI是秒表，OKR是指南针.mp3](https://beyondthe.top/OKR/lr0807KPI是秒表，OKR是指南针.mp3)
 ![5分钟商学院0807KPI是秒表，OKR是指南针.png](https://beyondthe.top/OKR/lr0807OKR.jpg)
 
+[0808 SMART原则.mp3](https://beyondthe.top/OKR/lr0808%2BSMART原则.mp3)
 ![SMART原则：有“OKR”这把刀，更要有“SMART原则”这套刀法.jpg](https://beyondthe.top/OKR/lr0808SMART原则：有“OKR”这把刀，更要有“SMART原则”这套刀法.jpg)
+
+[0818 二维四象限：太极生两仪，两仪生四象..mp3](https://beyondthe.top/OKR/lr0818.mp3)
 ![二维四象限：太极生两仪，两仪生四象.jpg](https://beyondthe.top/OKR/lr0818%20二维四象限：太极生两仪，两仪生四象.jpg)
 
 
