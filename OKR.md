@@ -1,6 +1,6 @@
 # OKR是什么
-[明道视频-]()
-
+[明道视频-](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/OKR/3%E5%88%86%E9%92%9F%E4%BB%8B%E7%BB%8DOKR.mp4)
+![pyramid](https://raw.githubusercontent.com/xigyou/xigyou.github.io/master/OKR/pyramid.png)
 
 
 # 吴军
