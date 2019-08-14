@@ -6,8 +6,10 @@
 
 
 # 教育邮箱可以申请福利
-[Office 365 教育版](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
+[Office 365 教育版注册](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
+
 查看OneDrive容量：Onedrive-右上齿轮-网站设置-其他设置-存储标准
+
 [Onedrive 全局管理员支持修改默认分配流量，教育版和开发者订阅都支持修改为最高 5TB 的默认配额](https://admin.onedrive.com/?v=StorageSettings)
 
 
