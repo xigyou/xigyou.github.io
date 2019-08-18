@@ -68,7 +68,7 @@
 
 ![转人工核保](https://beyondthe.top/img/转人工核保.png)
 
-![状态刷新](https://beyondthe.top/img/状态刷新.png)
+![状态刷新](https://beyondthe.top/img/状态刷新.jpeg)
 
 
 
