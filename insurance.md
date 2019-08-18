@@ -58,6 +58,9 @@
 
 
 # 业务相关
+
+# [国寿软件下载](http://www.downcc.com/k/zhongguorenshou/)
+
 ## 核保
 ### 可以先点击核实验，能通过后再找客户签名
 
@@ -71,6 +74,13 @@
 
 ![状态刷新](https://beyondthe.top/img/状态刷新.jpeg)
 
+
+## 转人工核保原因查询
+云助理app——核武器——核制导——输入投保单号——查询
+
+![核武器](https://beyondthe.top/img/核武器.jpeg)
+
+![核保未通过原因查询](https://beyondthe.top/img/核保未通过原因查询.png)
 
 
 ## 撤销核保
