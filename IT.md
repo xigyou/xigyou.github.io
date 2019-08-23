@@ -52,6 +52,8 @@
 ## 5G
 ### [联通5G先锋计划](http://5g.woego.cn/woego/html/5G_web/index_xianfeng.html)
 
+### [移动5G覆盖]（https://app.10086.cn/leadeon-cmcc-static/v2.0/pages/service/hallMap/location_list.html?WT.ac_id=1908_5GDT_PCMH6）
+
 
 
 ### 综合
