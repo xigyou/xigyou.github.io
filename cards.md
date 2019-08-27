@@ -2,6 +2,7 @@
 
 ## [黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
 
+## [最热门的11张高端白金卡！免年费值得办](https://mp.weixin.qq.com/s/BM647GU-En-xvyVGjkm9_Q)
 
 ## 卡片一览
 
@@ -17,7 +18,9 @@
 ## 重要工具
 
 ### 机场贵宾
+
 [长沙,白麒麟沃德](https://post.smzdm.com/p/727326/)
+
 [太原,招行经典白]
 [深圳,白麒麟沃德]
 [西安]()
