@@ -1,4 +1,8 @@
 # skills
+
+## hack
+[访问内网](https:/beyondthe.top/frp.md)
+
 ## 打印机相关
 [共享极路由上的USB打印机](https://stray.love/hiwifi/ji-lu-you-virualhere-jiao-cheng)
 
