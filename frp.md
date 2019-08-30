@@ -7,10 +7,15 @@
 [FRP客户端与服务端通用脚本](http://www.lu8.top/downloads/frp/frp.bat)
 
 ## 3、启动脚本
+
 通用脚本使用方法为：
+
 Windows系统：双击 frp.bat
+
 Linux系统：curl -kLs -o frp.bat https://dwz.cn/EPbJy0aX;sh frp.bat 
+
 mac 系统： curl -kLs -o frp.bat https://dwz.cn/EPbJy0aX;sh frp.bat 
+
 
 ## 4、配置客户端
 ### 本机电脑地址请填写
