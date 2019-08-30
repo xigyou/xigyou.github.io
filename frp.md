@@ -24,6 +24,7 @@ mac 系统： curl -kLs -o frp.bat https://dwz.cn/EPbJy0aX;sh frp.bat
 ## 服务器端地址 frps.byn.org
 
 ## 5、启动
+![frpc.png](https://beyondthe.top/img/frpc.png)
 
 ## 注意事项
 1、本地电脑是否已开启远程桌面连接
