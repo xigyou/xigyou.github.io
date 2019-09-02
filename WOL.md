@@ -7,8 +7,10 @@
 
 在设备驱动管理器中，找到 网络适配器 ，在第一个驱动 右键 -> 属性
 ![网卡属性]（https://beyondthe.top/img/wangka1.png）
+
 在 高级 菜单中的属性找到 唤醒魔包 (Wake on Magic Packet) Wake on pattern match 设置为 启用
 ![开启唤醒]（https://beyondthe.top/img/wangka2.png）
+
 在 电源管理 中 勾选 允许此设备唤醒计算机
 ![电源管理]（https://beyondthe.top/img/wangka3.png）
 
