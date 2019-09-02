@@ -21,7 +21,7 @@
 
 ![PCIE设备唤醒](https://beyondthe.top/img/bios1.png)
 
-![ACHI设备唤醒](https://beyondthe.top/img/bios2.jepg)
+![ACHI设备唤醒](https://beyondthe.top/img/bios2.jpeg)
 
 [更多方法](https://blog.csdn.net/liuyukuan/app/article/details/53439118)
 
