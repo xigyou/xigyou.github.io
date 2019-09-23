@@ -3,6 +3,7 @@
 ## [黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
 
 ## [最热门的11张高端白金卡！免年费值得办](https://mp.weixin.qq.com/s/BM647GU-En-xvyVGjkm9_Q)
+![11张高端卡权益表格](https://mmbiz.qpic.cn/mmbiz_png/AYFka5sX77scKfMFvEibI6yVjoIePYGqMwoUZ8Dyic0dw5LdibmNvHseg2sqbNdKIJ20ibRqZv0cpa3ZuiatU5nRJjw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 ## 卡片一览
