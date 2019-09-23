@@ -42,20 +42,20 @@
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
 
-[华夏海航白，腾讯新闻联名卡-累计国航里程神卡]（）
+[华夏海航白，腾讯新闻联名卡-累计国航里程神卡,微信公众号“华夏银行信用卡”申请]（）
 
 [民生精英白-无限PP，香毫白-累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
 
 
 ### 再过三个月后 第4批
 
-[兴业人保精英白+南航白12比1]()
+[兴业人保财险联名信用卡白金卡（精英版）+南航白12比1](http://creditcard.cib.com.cn/apply/products/ZTseries/PICC.html)
 
-[广发犀利卡返现+广发国寿白]()
+[广发犀利卡返现+广发国寿白](http://www.cgbchina.com.cn/Info/21278512)
 
-[平安百夫长]（）
+[平安百夫长](https://mp.weixin.qq.com/s/zViXSdHXV-n7m4_Yo8ei5A)
 
-[江苏银行钻石卡]（https://m.flyertea.com/forum.php?mod=viewthread&tid=2515864）
+[江苏银行钻石卡](https://m.flyertea.com/forum.php?mod=viewthread&tid=2515864)
 
 
 
