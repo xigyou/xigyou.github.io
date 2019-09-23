@@ -21,14 +21,22 @@
 
 [长沙,白麒麟沃德](https://post.smzdm.com/p/727326/)
 
+[厦门T3,白麒麟沃德](http://www.sohu.com/a/299096543_785986)
+
+[厦门T4,白麒麟沃德](http://www.flyertea.com/forum.php?mod=viewthread&tid=2570568)
+
 [太原,招行经典白]
+
 [深圳,白麒麟沃德]
 
 [西安]()
 
 杭州
+
 南宁
+
 昆明长水机场
+
 
 ### 卡神日历
 
