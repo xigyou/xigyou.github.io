@@ -19,6 +19,15 @@
 
 ### 机场贵宾楼攻略
 
+[北京首都T1 VIP，需预约，泡面10块，广发大白、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
+
+[首都机场T1,T2 CIP能优先登机]()
+
+[北京首都T3,不能优先登机]()
+   T3C可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
+   T3D只有国航休息室，只能用pp，龙腾不能用。。
+   T3E PP
+
 [长沙,贵宾楼](https://post.smzdm.com/p/727326/)
 
 [厦门T3,白麒麟沃德](http://www.sohu.com/a/299096543_785986)
@@ -31,14 +40,15 @@
 
 [西安T3，324和325号门，有专车在航站楼接](http://www.flyertea.com/thread-2813458-1-1.html)
 
-[杭州,有些银行需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
+[杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
 
-白麒麟 请提前4小时通过预约电话0571-86665666进行预约
+     白麒麟 请提前4小时通过预约电话0571-86665666进行预约
+     民生200积点电话预约
 
 
-南宁
+[南宁,商务候机区的指示牌](http://www.flyertea.com/thread-2619240-1-1.html)
 
-昆明长水机场
+[昆明长水机场,电话报车牌](http://www.flyertea.com/article-402786-1.html)
 
 
 ### 卡神日历
