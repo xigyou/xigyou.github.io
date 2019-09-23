@@ -12,7 +12,7 @@
 | 工行 | [故宫白](https://beyondthe.top/IT) |[单币白金卡](https://beyondthe.top/IT) |[2000，可免](https://beyondthe.top/IT) |[闪付，无积分交易场景](https://beyondthe.top/IT) |单币种，只占一条征信记录|
 
 ## 在线申请链接
-[招行AE白特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
+[招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
 
 ## 重要工具
