@@ -19,9 +19,10 @@
 
 ### 机场贵宾楼攻略
 
-[北京首都T1 VIP，需预约，泡面10块，广发大白、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
+[北京首都T1 国内贵宾区，需预约，泡面10块，广发大白、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
 
-[首都机场T1,T2 CIP能优先登机]()
+[首都机场T1,8号门
+T2 CIP能优先登机]()
 
 [北京首都T3,不能优先登机]()
    T3C可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
@@ -38,7 +39,9 @@
 
 [深圳,贵宾楼](http://www.flyertea.com/thread-2596781-1-1.html)
 
-[西安T3，324和325号门，有专车在航站楼接](http://www.flyertea.com/thread-2813458-1-1.html)
+[西安，1楼商务候机厅（无需到出发大厅），如果已经到达出发大厅可以在贵宾柜台验证卡片，会派小车送到贵宾厅。](http://www.flyertea.com/thread-2813458-1-1.html)
+
+[济南,打车可直接进入1楼商务候机厅，门卡保安出示银行卡片（无需到出发大厅），如果已经到达出发大厅需要坐电梯到一楼然后走到最南侧有联通门可以到贵宾区。](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
 
 [杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
 
@@ -48,7 +51,11 @@
 
 [南宁,商务候机区的指示牌](http://www.flyertea.com/thread-2619240-1-1.html)
 
+[福州,南侧VIP候机楼，如果已经到达出发大厅需要坐电梯到一楼然后出门走较远（建议不要）](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
+
 [昆明长水机场,电话报车牌](http://www.flyertea.com/article-402786-1.html)
+
+[兰州,VIP候机楼](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
 
 
 ### 卡神日历
