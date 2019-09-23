@@ -14,16 +14,25 @@
 ## 在线申请链接
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
+![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
 ## 重要工具
 
 ### 机场贵宾楼攻略
 
-[北京首都T1 国内贵宾区，需预约，泡面10块，没饭，广发大白、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
+#### 需预约
 
-    [广发大白金好像可以不限次。2500年费](http://www.flyertea.com/forum.php?mod=viewthread&tid=2246409)
-    
-    
+[北京首都T1 国内贵宾区，需预约，泡面10块，没饭，广发大白无限次，2500年费、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
+
+[杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
+
+     白麒麟 请提前4小时通过预约电话0571-86665666进行预约
+     民生200积点电话预约
+
+[昆明长水机场,电话报车牌](http://www.flyertea.com/article-402786-1.html)
+
+
+#### 北京CIP 无需预约
 
 [北京首都T1, 2号门右侧廊桥50米，CIP能优先登机]()
 
@@ -31,9 +40,13 @@
 
 [北京首都T3, 4层6号门 旅客服务中心背后 E35窗口， 打车1层CIP专用电梯， 不能优先登机](https://m.flyertea.com/forum.php?mod=viewthread&tid=1984791)
 
-   T3C可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
-   T3D只有国航休息室，只能用pp，龙腾不能用。。
-   T3E PP
+    T3C可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
+
+    T3D只有国航休息室，只能用pp，龙腾不能用。。
+
+    T3E PP
+
+#### 无需预约
 
 [长沙,贵宾楼](https://post.smzdm.com/p/727326/)
 
@@ -49,17 +62,12 @@
 
 [济南,打车可直接进入1楼商务候机厅，门卡保安出示银行卡片（无需到出发大厅），如果已经到达出发大厅需要坐电梯到一楼然后走到最南侧有联通门可以到贵宾区。](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
 
-[杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
-
-     白麒麟 请提前4小时通过预约电话0571-86665666进行预约
-     民生200积点电话预约
-
 
 [南宁,商务候机区的指示牌](http://www.flyertea.com/thread-2619240-1-1.html)
 
 [福州,南侧VIP候机楼，如果已经到达出发大厅需要坐电梯到一楼然后出门走较远（建议不要）](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
 
-[昆明长水机场,电话报车牌](http://www.flyertea.com/article-402786-1.html)
+
 
 [兰州,VIP候机楼](http://baijiahao.baidu.com/s?id=1596266006678189611&wfr=spider&for=pc)
 
