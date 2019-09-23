@@ -19,19 +19,19 @@
 
 ### 机场贵宾楼攻略
 
-[长沙,白麒麟沃德](https://post.smzdm.com/p/727326/)
+[长沙,贵宾楼](https://post.smzdm.com/p/727326/)
 
 [厦门T3,白麒麟沃德](http://www.sohu.com/a/299096543_785986)
 
-[厦门T4,白麒麟沃德](http://www.flyertea.com/forum.php?mod=viewthread&tid=2570568)
+[厦门T4,航站楼西侧面](http://www.flyertea.com/forum.php?mod=viewthread&tid=2570568)
 
-[太原,招行经典白]
+[太原,停车场旁边的VIP通道](http://www.flyertea.com/thread-2823793-1-1.html)
 
-[深圳,白麒麟沃德](http://www.flyertea.com/thread-2596781-1-1.html)
+[深圳,贵宾楼](http://www.flyertea.com/thread-2596781-1-1.html)
 
-[西安]()
+[西安T3，324和325号门，有专车在航站楼接](http://www.flyertea.com/thread-2813458-1-1.html)
 
-杭州
+[杭州,有些银行需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
 
 南宁
 
