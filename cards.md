@@ -14,6 +14,8 @@
 ## 在线申请链接
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
+[国贸香白，1年刷15次免次年年费]（https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160）
+
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
 ## 重要工具
