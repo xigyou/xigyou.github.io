@@ -32,6 +32,8 @@
 [西安T3，324和325号门，有专车在航站楼接](http://www.flyertea.com/thread-2813458-1-1.html)
 
 [杭州,有些银行需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
+请提前4小时通过预约电话0571-86665666进行预约
+
 
 南宁
 
