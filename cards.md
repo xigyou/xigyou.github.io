@@ -11,7 +11,28 @@
 | 工行 | [香白](http://www.icbc.com.cn/ICBC/%e7%89%a1%e4%b8%b9%e5%8d%a1/%e5%8d%a1%e7%89%87%e4%b8%96%e7%95%8c/%e8%81%94%e5%90%8d%e5%8d%a1%e4%ba%a7%e5%93%81%e7%b3%bb%e5%88%97/%e5%95%86%e6%97%85%e6%9c%8d%e5%8a%a1%e7%b3%bb%e5%88%97/%e5%b7%a5%e9%93%b6%e9%a6%99%e6%a0%bc%e9%87%8c%e6%8b%89%e4%bf%a1%e7%94%a8%e5%8d%a1/%e5%b7%a5%e9%93%b6%e9%a6%99%e6%a0%bc%e9%87%8c%e6%8b%89%e4%bf%a1%e7%94%a8%e5%8d%a1.htm) |[积分价值最大](https://beyondthe.top/IT) |[2000，可免](https://beyondthe.top/IT) |[插卡](https://beyondthe.top/IT) |多币种每个币种占一条征信记录|
 | 工行 | [故宫白](https://beyondthe.top/IT) |[单币白金卡](https://beyondthe.top/IT) |[2000，可免](https://beyondthe.top/IT) |[闪付，无积分交易场景](https://beyondthe.top/IT) |单币种，只占一条征信记录|
 
+## 申卡顺序，申卡不要选降级
+[建行大山白VISA版,本人无限CIP，挂号牛，2间夜200元兑换酒店权益]()
+
+[招行经典白可免年费，百夫长刚性年费]()
+
+[浦发AE白，可以试试]()
+
+[农行悠然白，精粹白]（）
+
+[工行香白]()
+
+[交行白麒麟，带人最牛]()
+
+[民生精英白-无限PP，香毫白-累计香格里拉积分神卡]()
+
+[华夏海航白，腾讯新闻联名卡-累计国航里程神卡]（）
+
+
+
+
 ## 在线申请链接
+
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
 [国贸香白，1年刷15次免次年年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
