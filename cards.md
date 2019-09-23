@@ -16,29 +16,34 @@
 ## 申卡顺序，并发申卡，申卡不要选降级
 
 ### 第1批
-[建行大山白VISA版,本人无限CIP，挂号牛，2间夜200元兑换酒店权益]()
+[建行大山白,龙卡尊享白金信用卡VISA,本人无限CIP，挂号牛，2间夜200元兑换酒店权益](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
 
-[招行经典白可免年费，百夫长刚性年费]()
+[招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vipjh/jflc.html)
 
-[邮储鼎致白]()
+[招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
+
+[邮储鼎致白](https://wap.psbc.com/mobilebank/masterCard-peperInfoJumpActionNew.do?version=html5&sponsorNum=10088357&sponsorName=%E5%B0%A4%E6%98%8E%E8%81%AA&enterChannelNum=34000001&sponsorOrgan=)
 
 
 ### 过三个月后 第2批
 
-[浦发AE白，可以试试，5次接送机，无限龙腾+每年携伴7人次]()
+[浦发AE白,浦发美国运通白金卡，5次接送机，无限龙腾+每年携伴7人次](https://ecentre.spdbccc.com.cn/creditcard/indexActivity.htm?data=F1809051549034056318)
 
 [农行悠然白，精粹白]（）
 
-[交行白麒麟，带人最牛]()
+[交行白麒麟，交通银行白金信用卡银联单标版，24次CIP+24次龙腾，带人神卡](https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=2261146&saleCode=&entryRecomId=null&trackCode=A072923332389&isNewCardMgm=2&from=singlemessage)
 
 
 ### 再过三个月后 第3批
 
-[工行香白，工行最换算的卡，15比免次年费]()
+[工行香白，工行最换算的卡，刷15比免次年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
+
+![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
+
 
 [华夏海航白，腾讯新闻联名卡-累计国航里程神卡]（）
 
-[民生精英白-无限PP，香毫白-累计香格里拉积分神卡]()
+[民生精英白-无限PP，香毫白-累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
 
 
 ### 再过三个月后 第4批
@@ -57,18 +62,6 @@
 
 [2000万理财可免2万年费 进件中信无限卡](http://www.flyertea.com/article-414184-1.html)
 
-
-
-
-
-
-## 在线申请链接
-
-[招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
-
-[国贸香白，1年刷15次免次年年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
-
-![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
 ## 重要工具
 
