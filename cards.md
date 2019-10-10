@@ -105,11 +105,11 @@
 
 [乌鲁木齐T3,商务候机室，在T3靠近T2的那边，从出发层进入的话在出发右手边KFC左边](https://www.flyertea.com/thread-2148630-1-1.html)
 
-![T3商务候机室](https://beyondthe.top/img/wlmqT3_1.jpeg)
+![T3商务候机室](https://beyondthe.top/img/wlmq_T3_1.jpeg)
 
-![T3商务候机室3](https://beyondthe.top/img/wlmqT3_2.jpeg)
+![T3商务候机室3](https://beyondthe.top/img/wlmq_T3_2.jpeg)
 
-![T3商务候机室3](https://beyondthe.top/img/wlmqT3_3.jpeg)
+![T3商务候机室3](https://beyondthe.top/img/wlmq_T3_3.jpeg)
 
 
 [厦门T3,白麒麟沃德](http://www.sohu.com/a/299096543_785986)
