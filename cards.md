@@ -89,9 +89,9 @@
 
 [北京首都T3, 4层6号门 旅客服务中心背后 E35窗口， 打车1层CIP专用电梯， 不能优先登机](https://m.flyertea.com/forum.php?mod=viewthread&tid=1984791)
 
-    T3C可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
+    T3C 可用空港易行（从安检入口最右手边下电梯进入安检最快）和国航休息室，分别接受龙腾和pp，对面上楼有龙腾餐食体验厅
 
-    T3D只有国航休息室，只能用pp，龙腾不能用。。
+    T3D 只有国航休息室，只能用pp，龙腾不能用。。
 
     T3E PP
 
@@ -99,9 +99,23 @@
 
 [长沙,贵宾楼](https://post.smzdm.com/p/727326/)
 
+[乌鲁木齐T1,安检后，没饭吃，只有豆浆](http://www.flyertea.com/thread-3094422-1-1.html)
+
+[乌鲁木齐T2,商务候机室，从出发层进入的话在出发坐手边，楼上永和大王旁边是龙腾的，龙腾也有快速安检](https://www.flyertea.com/thread-2795255-1-1.html)
+
+[乌鲁木齐T3,商务候机室，在T3靠近T2的那边，从出发层进入的话在出发右手边KFC左边](https://www.flyertea.com/thread-2148630-1-1.html)
+
+![T3商务候机室](https://beyondthe.top/img/wlmqT3_1.jpeg)
+
+![T3商务候机室3](https://beyondthe.top/img/wlmqT3_2.jpeg)
+
+![T3商务候机室3](https://beyondthe.top/img/wlmqT3_3.jpeg)
+
+
 [厦门T3,白麒麟沃德](http://www.sohu.com/a/299096543_785986)
 
 [厦门T4,航站楼西侧面](http://www.flyertea.com/forum.php?mod=viewthread&tid=2570568)
+
 
 [太原,停车场旁边的VIP通道](http://www.flyertea.com/thread-2823793-1-1.html)
 
