@@ -3,7 +3,7 @@
 ## [黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
 
 ## [最热门的11张高端白金卡！免年费值得办](https://mp.weixin.qq.com/s/BM647GU-En-xvyVGjkm9_Q)
-![11张高端卡权益表格](https://mmbiz.qpic.cn/mmbiz_png/AYFka5sX77scKfMFvEibI6yVjoIePYGqMwoUZ8Dyic0dw5LdibmNvHseg2sqbNdKIJ20ibRqZv0cpa3ZuiatU5nRJjw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![11张高端卡权益表格](https://beyondthe.top/img/good_cards.jpeg)
 
 
 ## 卡片一览
@@ -15,7 +15,7 @@
 
 
 
-## 申卡顺序，每隔三个月并发申卡，申卡不要选降级
+## 申卡顺序，每隔三个月并发申卡（1-2天提交全部申请），申卡不要选降级
 
 ### 第1批
 [建行大山白,龙卡尊享白金信用卡VISA,本人无限CIP，挂号牛，2间夜200元兑换酒店权益](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
