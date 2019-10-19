@@ -29,7 +29,7 @@
 
 [邮储鼎致白,5万起批，10万，15万很多。手机APP申请，权益变现超级方便](https://mp.weixin.qq.com/s/LaSbpEr6g2kKhxzXUCeqBA)
 
-[建行大山白,龙卡尊享白金信用卡VISA,8万起批，本人无限CIP，挂号牛，2间夜200元兑换酒店权益]
+[建行大山白,龙卡尊享白金信用卡VISA,8万起批，本人无限CIP，挂号牛，2间夜200元兑换酒店权益](http://creditcard.ccb.com/cn/creditcard/cards/20180710_1531211763.html)
 
 大山白下卡最佳模型，新户
 
