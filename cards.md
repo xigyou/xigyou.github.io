@@ -5,6 +5,15 @@
 ## [最热门的11张高端白金卡！免年费值得办](https://mp.weixin.qq.com/s/BM647GU-En-xvyVGjkm9_Q)
 ![11张高端卡权益表格](https://beyondthe.top/img/good_cards.jpeg)
 
+# 回收网站
+## 加油卡、话费卡 
+[日子和梦](http://rzhm.top/)
+
+# 星巴克券等
+[心动club](https://beyondthe.top/img/xindong_club.png)
+
+
+
 
 ## 卡片一览
 
@@ -18,20 +27,29 @@
 ## 申卡顺序，每隔三个月并发申卡（1-2天提交全部申请），申卡不要选降级
 
 ### 第1批
-[建行大山白,龙卡尊享白金信用卡VISA,本人无限CIP，挂号牛，2间夜200元兑换酒店权益](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
+
+[邮储鼎致白,5万起批，10万，15万很多。手机APP申请，权益变现超级方便](https://mp.weixin.qq.com/s/LaSbpEr6g2kKhxzXUCeqBA)
+
+[建行大山白,龙卡尊享白金信用卡VISA,8万起批，本人无限CIP，挂号牛，2间夜200元兑换酒店权益]
+
+大山白下卡最佳模型，新户
+
+6行以内有一家超过10万的他行卡，合计总授信不超过50万，有公积金在建行，不管基数多少，直接网申，下卡率50%左右，于是有了放水一说，建行对于持卡行数，总授信严格要求.
+
+      建行可以先查看预审批：要是有个4-5万可以先办个海航联名白金卡。
+      下载建行手机银行APP——信用卡——信用卡管理——预审批额度
+      
+[大山白申卡链接 申VISA版 ](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
 
 [招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vipjh/jflc.html)
 
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
-[邮储鼎致白](https://wap.psbc.com/mobilebank/masterCard-peperInfoJumpActionNew.do?version=html5&sponsorNum=10088357&sponsorName=%E5%B0%A4%E6%98%8E%E8%81%AA&enterChannelNum=34000001&sponsorOrgan=)
-
-
 ### 过三个月后 第2批
 
 [浦发AE白,浦发美国运通白金卡，5次接送机，无限龙腾+每年携伴7人次](https://ecentre.spdbccc.com.cn/creditcard/indexActivity.htm?data=F1809051549034056318)
 
-[农行悠然白，精粹白]（）
+[农行悠然白,1万起批，可拿VIP号，20：1换里程，精粹白不好下]（https://wx.abchina.com/CreditCard/netBank/webank/Main.aspx?encontent=37dff4f0d6463d39dc70bee8e96fa4e0959897e42b31dc2060e209fdd82cfb0855ffd8bed5c753ec6ee779d2f74421d626efdbd66e4d859a8f6e887a22e206260b5f30d1b309896380b08603d79eaa6f5e6937acb2078ab4ca874170ffa66d8b13cfb2f419ba5766bf818f70c56c780cb50e25982511aad6944dfcd29e1f545fa10be4acb3f0dc71bd9a988f1da7c1688d1bb6e813ae25e5fd6b851a02c7b297c55acd23d74e3d239c7e5b8d7c99813139fcf880dd9f565509dc2b1d653a1dd7d07441a2d6936b0135f6b19c8f89a1a6de3adbfedf4d3ada2ccbd68647ed9f12594e66a4db05a474c23c84f8d5ce9877fac2507a58ed216d）
 
 [交行白麒麟，交通银行白金信用卡银联单标版，24次CIP+24次龙腾，带人神卡](https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=2261146&saleCode=&entryRecomId=null&trackCode=A072923332389&isNewCardMgm=2&from=singlemessage)
 
