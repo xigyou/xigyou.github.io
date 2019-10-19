@@ -37,6 +37,8 @@
 
       建行可以先查看预审批：要是有个4-5万可以先办个海航联名白金卡。
       下载建行手机银行APP——信用卡——信用卡管理——预审批额度
+      
+
 ![建行预审批额度查询](https://beyondthe.top/img/ccb_yushenpi.jpeg)
       
 [大山白申卡链接 申VISA版 ](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
