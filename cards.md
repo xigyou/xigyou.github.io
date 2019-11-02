@@ -63,7 +63,7 @@
 
 ### 再过三个月后 第3批
 
-[工行香白，工行最换算的卡，刷15比免次年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
+[工行香白，工行最换算的卡，刷15笔免次年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
 
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
