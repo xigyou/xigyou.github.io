@@ -5,6 +5,8 @@
 
 [远程唤醒电脑](https://beyondthe.top/WOL)
 
+[挂载远程文件夹的方法有,推荐zerotier+SMB](https://www.cnblogs.com/focus-g/p/11367181.html)
+
 ## 打印机相关
 [共享极路由上的USB打印机](https://stray.love/hiwifi/ji-lu-you-virualhere-jiao-cheng)
 
