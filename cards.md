@@ -106,6 +106,8 @@
 
 ### 机场贵宾楼攻略
 
+#### [建行CIP](http://wealth1.ccb.com/Channel/3059113)
+
 #### 需预约
 
 [北京首都T1 国内贵宾区，需预约，泡面10块，没饭，广发大白无限次，2500年费、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
