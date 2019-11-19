@@ -12,6 +12,16 @@
 ## 星巴克券等
 ![心动club](https://beyondthe.top/img/xindong_club.png)
 
+# 工具
+
+## [分期实际年化费率计算器](http://www.abchina.com/cn/CreditCard/WealthManagement/fqnhl/)
+
+## [招行个人贷款计算器](http://www.cmbchina.com/CmbWebPubInfo/Cal_Loan_Per.aspx)
+
+## [招行分期计算器](http://ccclub.cmbchina.com/fincreditweb/Common/Calculator.aspx)
+
+## [网贷计算器含每期还款明细,可修改网页到任意期数](http://loan.chahuo.com/)
+
 
 
 ## 卡片一览
