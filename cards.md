@@ -91,6 +91,8 @@
 
 [广发犀利卡返现+广发国寿白+广发钻石无限卡](http://www.cgbchina.com.cn/Info/21278512)
 
+[广发川航联名信用卡金卡 14:1换川航](http://www.flyertea.com/plugin.php?id=creditcard&mod=view&sid=2847)
+
 [平安百夫长](https://mp.weixin.qq.com/s/zViXSdHXV-n7m4_Yo8ei5A)
 
 [江苏银行钻石卡](https://m.flyertea.com/forum.php?mod=viewthread&tid=2515864)
