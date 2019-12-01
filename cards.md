@@ -53,6 +53,8 @@
       
 [大山白申卡链接 申VISA版 仅限老用户 建议电脑上申请，老用户登陆后可以选择作为新用户申请，电脑方便上传财力证明 ](https://sinfo.ccb.com/cn/creditcard/apply/new/zunxiang_form.html?id=20180710_1531211763&provId=1001&cityId=1&cardId=20180710_1531211763&card_name=%E9%BE%99%E5%8D%A1%E5%B0%8A%E4%BA%AB%E7%99%BD%E9%87%91%E4%BF%A1%E7%94%A8%E5%8D%A1&SID=WEB&applyType=1&)
 
+[首卡也可网申大山白](https://mp.weixin.qq.com/s/xaGXnBh6SDVJQwWi8HzZ_w)
+
 [招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vipjh/jflc.html)
 
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
