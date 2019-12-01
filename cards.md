@@ -95,6 +95,8 @@
 
 ### 再过三个月后 第4批
 
+[汇丰东航联名信用卡](https://www.hsbc.com.cn/credit-cards/products/cea/)
+
 [兴业人保财险联名信用卡白金卡（精英版）+南航白12比1](http://creditcard.cib.com.cn/apply/products/ZTseries/PICC.html)
 
 [广发犀利卡返现+广发国寿白+广发钻石无限卡](http://www.cgbchina.com.cn/Info/21278512)
