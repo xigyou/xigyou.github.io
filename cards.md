@@ -77,11 +77,13 @@
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
 
-[华夏海航白，腾讯新闻联名卡-累计国航里程神卡,微信公众号“华夏银行信用卡”申请]（）
+[华夏海航白,腾讯新闻联名卡-5:1累计国航里程神卡,微信公众号“华夏银行信用卡”申请]（）
 
 [东航神卡，汇丰东航联名信用卡](https://www.hsbc.com.cn/credit-cards/campaigns/china-eastern-airlines/)
 
-[民生精英白-无限PP，香毫白-累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
+[民生精英白-无限PP，香毫白有年费，香标白免年费 累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
+
+[民生后续加办 金熊猫白金卡银联单标，免年费 10：1换川航](https://creditcard.cmbc.com.cn/home/cn/web/product/travel/chuanhang/index.shtml)
 
 
 ### 再过三个月后 第4批
