@@ -32,6 +32,7 @@
 
 
 
+
 ## 申卡顺序，每隔三个月并发申卡（1-2天提交全部申请），申卡不要选降级
 
 ### 第1批
@@ -72,10 +73,14 @@
 
 ### 再过三个月后 第3批
 
-[工行香白，工行最换算的卡，刷15笔免次年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
+[工行香白，全币种，工行最换算的卡，刷15笔免次年费](https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&coreCode=HZDW000002461&paraPromoCode=EW88602001680804160)
 
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
 
+[工行3136下挂](https://bbs.creditcard.com.cn/thread-1218782-1-1.html)
+
+      国行白银联加M   双标全币种     46000262
+      WeHotel白金卡  银联单币种      46000757
 
 [华夏海航白,腾讯新闻联名卡-5:1累计国航里程神卡,微信公众号“华夏银行信用卡”申请]（）
 
