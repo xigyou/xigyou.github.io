@@ -57,6 +57,8 @@
 
 [招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vipjh/jflc.html)
 
+[百夫长5万里程里程及酒店，经典白5万里程，致电客服兑换](http://market.cmbchina.com/ccard/vipjh/jflc.html)
+
 [招行美运百夫长特邀，手机打开能填写的基本能过。](https://market.cmbchina.com/ccard/wap/aeb03/index.html)
 
 ### 过三个月后 第2批
