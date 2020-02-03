@@ -14,6 +14,7 @@
 
 ## 积分兑换
 [建行换话费，推荐账号登陆](http://jf.ccb.com/exchangecenter/product/materialproductdetail.jhtml?productId=1000000000003783)
+
 华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）
 
 # 工具
