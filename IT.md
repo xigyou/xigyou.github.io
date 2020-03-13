@@ -15,7 +15,10 @@
 ## sftp 挂载到本地电脑
 [mac MacFusion2](http://macfusionapp.org/)
 
-[windows](https://www.nsoftware.com/sftp/drive/download.aspx)
+[mac SSHFS](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
+brew install Caskroom/cask/osxfuse
+
+[windows](https://beyondthe.top/soft/SFTPDriveV2.exe)
 
 # 教育邮箱可以申请福利
 [Office 365 教育版注册](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
