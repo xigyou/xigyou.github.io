@@ -12,6 +12,9 @@
 
 [VirtualHere USB Client](http://www.virtualhere.com/usb_client_software)
 
+## sftp 挂载到本地电脑
+[mac 暂无]()
+[windows](https://www.nsoftware.com/sftp/drive/download.aspx)
 
 # 教育邮箱可以申请福利
 [Office 365 教育版注册](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
