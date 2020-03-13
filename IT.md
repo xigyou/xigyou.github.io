@@ -13,7 +13,8 @@
 [VirtualHere USB Client](http://www.virtualhere.com/usb_client_software)
 
 ## sftp 挂载到本地电脑
-[mac 暂无]()
+[mac MacFusion2](http://macfusionapp.org/)
+
 [windows](https://www.nsoftware.com/sftp/drive/download.aspx)
 
 # 教育邮箱可以申请福利
