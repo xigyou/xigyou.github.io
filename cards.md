@@ -63,7 +63,11 @@
 
 [首卡也可网申大山白](https://mp.weixin.qq.com/s/xaGXnBh6SDVJQwWi8HzZ_w)
 
-[招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vipjh/jflc.html)
+[招行经典白可免年费，百夫长刚性年费](http://market.cmbchina.com/ccard/vip/jingdian/index.html)
+
+[百夫长5万里程里程及酒店，经典白5万里程，致电客服兑换](http://market.cmbchina.com/ccard/vipjh/jflc.html)
+
+[招行下不来好卡可以先办航空联名卡](http://cc.cmbchina.com/card/?tq=1)
 
 [百夫长5万里程里程及酒店，经典白5万里程，致电客服兑换](http://market.cmbchina.com/ccard/vipjh/jflc.html)
 
