@@ -5,6 +5,8 @@
 
 [远程唤醒电脑](https://beyondthe.top/WOL)
 
+[查看对方IP，浏览器信息](https://www.maitube.com/7/1.php)
+
 [挂载远程文件夹的方法有,推荐zerotier+SMB](https://www.cnblogs.com/focus-g/p/11367181.html)
 
 ## 打印机相关
