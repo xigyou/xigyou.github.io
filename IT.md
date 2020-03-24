@@ -30,6 +30,12 @@ brew install Caskroom/cask/osxfuse
 [Onedrive 全局管理员支持修改默认分配流量，教育版和开发者订阅都支持修改为最高 5TB 的默认配额](https://admin.onedrive.com/?v=StorageSettings)
 
 
+# 服务器相关
+
+[服务器12根内存插法](https://beyondthe.top/img/12_slots.png)
+
+[服务器内存插法视频](https://beyondthe.top/video/memory_load_order_configuration.mp4)
+
 
 
 
