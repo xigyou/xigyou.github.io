@@ -127,6 +127,8 @@
 
 [汇丰东航联名信用卡](https://www.hsbc.com.cn/credit-cards/products/cea/)
 
+[邀请链接，翻汇丰东航联名信用卡](https://www.services.cn-banking.hsbc.com.cn/PublicContent/wechat/ccMgm/index.html#/mgm/creditMgmShare?nickname=546L5rab&headimgurl=http:%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2FN9aBGhZ0OXG4PYOjrH44A5vv9mfcaSrvictsbx6w0VcCGACsadFSyvkoPzHjt4ss55hUr9jOwh6TkjWdQicZqIjJWVKHm22dIZ%2F132&refNumber=05WJXK64126)
+
     9积分换爱奇艺，腾讯视频：汇丰银行APP——首页——积分平台——9积分
     活动报名与领奖：汇丰银行APP——首页——积分平台——用卡活动——我的活动
 
