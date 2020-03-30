@@ -127,6 +127,9 @@
 
 [汇丰东航联名信用卡](https://www.hsbc.com.cn/credit-cards/products/cea/)
 
+    9积分换爱奇艺，腾讯视频：汇丰银行APP——首页——积分平台——9积分
+    活动报名与领奖：汇丰银行APP——首页——积分平台——用卡活动——我的活动
+
 [中信小米联名卡](https://mp.weixin.qq.com/s/8WYu8eNQMvxhIEodvjRHvw)
 
 [兴业人保财险联名信用卡白金卡（精英版）+南航白12比1](http://creditcard.cib.com.cn/apply/products/ZTseries/PICC.html)
