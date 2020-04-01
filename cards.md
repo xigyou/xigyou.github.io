@@ -95,6 +95,8 @@
 
 [刷满20万次年无限龙腾，年刷卡及年费查询：工银E生活APP -金融-卡片-设置-卡片信息查询](https://mp.weixin.qq.com/s/sqPrds0tjJtFwYtwNAIbMg)
 
+     积分明细查询：工商银行APP—我的—专属权益—积分
+
 [工行3136下挂](https://bbs.creditcard.com.cn/thread-1218782-1-1.html)
 
       46000262 国航知音双标M     双标全币种
