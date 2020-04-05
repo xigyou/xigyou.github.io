@@ -20,6 +20,8 @@
 
 华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）
 
+[积分价值表](https://mp.weixin.qq.com/s/KJ0Ahec5Dwj2QJEDe-svAg)
+
 # 工具
 
 ## [分期实际年化费率计算器](http://www.abchina.com/cn/CreditCard/WealthManagement/fqnhl/)
