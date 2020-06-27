@@ -120,7 +120,7 @@
 
 [民生精英白-无限PP，香毫白有年费，香标白免年费 累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
 
-[民生后续加办 金熊猫白金卡银联单标，免年费 10：1换川航](https://creditcard.cmbc.com.cn/home/cn/web/product/travel/chuanhang/index.shtml)
+[民生后续加办 金熊猫白金卡银联单标，免年费 10：1换川航](https://creditcard.cmbc.com.cn/home/cn/web/product/travel/chuanhang/index.shtml)不要用了
 
 
 ### 再过三个月后 第4批
@@ -143,6 +143,20 @@
 [平安百夫长](https://mp.weixin.qq.com/s/zViXSdHXV-n7m4_Yo8ei5A)
 
 [江苏银行钻石卡](https://m.flyertea.com/forum.php?mod=viewthread&tid=2515864)
+
+
+## 中端配置
+
+[工行故宫白银联单币种（pay有分，工行综合积分可换WeHotel积分）]（http://www.icbc.com.cn/ICBC/%E7%89%A1%E4%B8%B9%E5%8D%A1/%E5%8D%A1%E7%89%87%E4%B8%96%E7%95%8C/%E8%B6%A3%E5%91%B3%E4%B8%BB%E9%A2%98%E7%B3%BB%E5%88%97/%E5%B7%A5%E9%93%B6%E6%95%85%E5%AE%AB%E8%81%94%E5%90%8D%E4%BF%A1%E7%94%A8%E5%8D%A1/%e5%b7%a5%e9%93%b6%e6%95%85%e5%ae%ab%e8%81%94%e5%90%8d%e4%bf%a1%e7%94%a8%e5%8d%a1.htm）
+[农行南航金（微信有分）](http://www.abchina.com/cn/CreditCard/ApplyCard/cardinfo/201705/t20170503_1062095.htm?cardId=468)
+[中行国航白（微支）](https://www.boc.cn/bcservice/bc1/201401/t20140128_2873166.html)
+[建行国航白,东航白12:1]（）
+[交行优逸白](https://creditcard.bankcomm.com/content/dam/pc/bjk/youyi/youyi.html)
+邮储鼎致白
+招行经典白
+汇丰东航白
+浦发AE白
+[华夏海航白](https://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2017/07/17452.shtml)
 
 
 
