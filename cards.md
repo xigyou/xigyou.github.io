@@ -147,7 +147,7 @@
 
 ## 中端配置
 
-[工行故宫白银联单币种（pay有分，工行综合积分可换WeHotel积分）]（http://www.icbc.com.cn/ICBC/%E7%89%A1%E4%B8%B9%E5%8D%A1/%E5%8D%A1%E7%89%87%E4%B8%96%E7%95%8C/%E8%B6%A3%E5%91%B3%E4%B8%BB%E9%A2%98%E7%B3%BB%E5%88%97/%E5%B7%A5%E9%93%B6%E6%95%85%E5%AE%AB%E8%81%94%E5%90%8D%E4%BF%A1%E7%94%A8%E5%8D%A1/%e5%b7%a5%e9%93%b6%e6%95%85%e5%ae%ab%e8%81%94%e5%90%8d%e4%bf%a1%e7%94%a8%e5%8d%a1.htm）
+[工行故宫白银联单币种（pay有分，工行综合积分可换WeHotel积分）](http://www.icbc.com.cn/ICBC/%E7%89%A1%E4%B8%B9%E5%8D%A1/%E5%8D%A1%E7%89%87%E4%B8%96%E7%95%8C/%E8%B6%A3%E5%91%B3%E4%B8%BB%E9%A2%98%E7%B3%BB%E5%88%97/%E5%B7%A5%E9%93%B6%E6%95%85%E5%AE%AB%E8%81%94%E5%90%8D%E4%BF%A1%E7%94%A8%E5%8D%A1/%e5%b7%a5%e9%93%b6%e6%95%85%e5%ae%ab%e8%81%94%e5%90%8d%e4%bf%a1%e7%94%a8%e5%8d%a1.htm)
 
 [农行南航金（微信有分）](http://www.abchina.com/cn/CreditCard/ApplyCard/cardinfo/201705/t20170503_1062095.htm?cardId=468)
 
