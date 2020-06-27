@@ -18,7 +18,7 @@
 ## 积分兑换
 [建行换话费，推荐建行账号登陆](http://jf.ccb.com/exchangecenter/product/materialproductdetail.jhtml?productId=1000000000003783)
 
-华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）
+华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）卒于20200802
 
 [积分价值表](https://mp.weixin.qq.com/s/KJ0Ahec5Dwj2QJEDe-svAg)
 
@@ -116,9 +116,7 @@
       
       
 
-[华夏海航白,腾讯新闻联名卡-5:1累计国航里程神卡,微信公众号“华夏银行信用卡”申请](http://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2018/11/22925.shtml)
-
-      华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）
+[华夏海航白,微信公众号“华夏银行信用卡”申请](https://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2017/07/17452.shtml)
 
 [民生精英白-无限PP，香毫白有年费，香标白免年费 累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
 
