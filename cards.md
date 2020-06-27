@@ -151,9 +151,9 @@
 
 [农行南航金（微信有分）](http://www.abchina.com/cn/CreditCard/ApplyCard/cardinfo/201705/t20170503_1062095.htm?cardId=468)
 
-[中行国航白（微支）](https://www.boc.cn/bcservice/bc1/201401/t20140128_2873166.html)
+[中行国航白（微支有分）](https://www.boc.cn/bcservice/bc1/201401/t20140128_2873166.html)
 
-[建行国航白,东航白12:1]（）
+[建行国航白,东航白12:1银联单标]（http://creditcard.ccb.com/cn/creditcard/card_list.html?isapplyB=1&isvisible=2）
 
 [交行优逸白](https://creditcard.bankcomm.com/content/dam/pc/bjk/youyi/youyi.html)
 
