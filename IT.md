@@ -49,14 +49,15 @@ brew install Caskroom/cask/osxfuse
 
 ## VOLTE视频电话
 
-[移动10086说不走套餐分钟数，拨打0.29元/分钟，接听免费，不及流量费用 iPhone 7及以上 系统23.1]（http://www.10086.cn/volte/volte_phone/）
+[移动10086说不走套餐分钟数，拨打0.29元/分钟，接听免费，不计流量费用 iPhone 7及以上 系统23.1](http://www.10086.cn/volte/volte_phone/)
 
-[联通电信走套餐分钟数。]
+[联通电信走套餐分钟数。](https://iservice.10010.com/e4/transact/volte/volte.html)
 
 上海联通的智慧沃家主副卡拨打VOLTE视频电话免费。
 上海联通的米粉卡VOLTE视频电话拨打亲情号免费。
 甘肃联通的梦想E卡拨打亲情号VOLTE视频电话免费。
 
+[如何开通VoLTE](https://iservice.10010.com/e4/transact/volte/pinpaimiaoshu.html)
 
 ## 宽带
 
