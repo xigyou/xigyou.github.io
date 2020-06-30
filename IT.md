@@ -53,6 +53,10 @@ brew install Caskroom/cask/osxfuse
 
 [联通电信走套餐分钟数。](https://iservice.10010.com/e4/transact/volte/volte.html)
 
+[安卓这种需要同一个运营商，而且也不是所有安卓手机都支持这个功能?](https://www.feng.com/post/12852884)
+
+之前我的MIX2和老妈的红米6A之间可以直接使用VOLTE的视频通话，可是今天用我的iPhone11pro，居然找不到视频通话的功能，界面上只有FaceTime。
+
 上海联通的智慧沃家主副卡拨打VOLTE视频电话免费。
 上海联通的米粉卡VOLTE视频电话拨打亲情号免费。
 甘肃联通的梦想E卡拨打亲情号VOLTE视频电话免费。
