@@ -47,6 +47,15 @@ brew install Caskroom/cask/osxfuse
 
 [希捷保修查询](https://www.seagate.com/cn/zh/support/warranty-and-replacements/)
 
+## VOLTE视频电话
+
+[移动10086说不走套餐分钟数，拨打0.29元/分钟，接听免费，不及流量费用 iPhone 7及以上 系统23.1]（http://www.10086.cn/volte/volte_phone/）
+
+[联通电信走套餐分钟数。]
+
+上海联通的智慧沃家主副卡拨打VOLTE视频电话免费。
+上海联通的米粉卡VOLTE视频电话拨打亲情号免费。
+甘肃联通的梦想E卡拨打亲情号VOLTE视频电话免费。
 
 
 ## 宽带
