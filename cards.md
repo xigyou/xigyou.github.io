@@ -22,6 +22,17 @@
 
 [积分价值表](https://mp.weixin.qq.com/s/KJ0Ahec5Dwj2QJEDe-svAg)
 
+工行换WeHotel积分
+农行换里程
+中行
+建行中石化油卡
+交行年费里程
+邮储换京东E卡
+招行1299积分兑换百度网盘超级会员月卡。
+北京银行换钢镚
+
+
+
 # 工具
 
 ## [分期实际年化费率计算器](http://www.abchina.com/cn/CreditCard/WealthManagement/fqnhl/)
