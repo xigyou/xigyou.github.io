@@ -168,7 +168,7 @@
 
 [交行优逸白](https://creditcard.bankcomm.com/content/dam/pc/bjk/youyi/youyi.html)
 
-邮储鼎致白
+邮储鼎致白 邮储信用卡APP-精选-权益管理-增值服务-选择服务-立即使用-等到显示剩余次数。   首年刷满5.8万免年费，次年出年费后12个账单月内致电客服20万积分抵扣。
 招行经典白
 汇丰东航白
 浦发AE白
