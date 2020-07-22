@@ -16,9 +16,7 @@
 ![心动club](https://beyondthe.top/img/xindong_club.png)
 
 ## 积分兑换
-[建行换话费，推荐建行账号登陆](http://jf.ccb.com/exchangecenter/product/materialproductdetail.jhtml?productId=1000000000003783)
-
-华夏兑换国航里程路径:华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（16:1,配合三倍积分相当于5:1）卒于20200802
+[建行换油卡，推荐建行账号登陆或者APP内积分商城](http://jf.ccb.com/exchangecenter/search/product.jhtml?keyword=%E4%B8%AD%E7%9F%B3%E5%8C%96&scoreRegion=%E7%A7%AF%E5%88%86%E8%8C%83%E5%9B%B4&exchangeChannel=net)
 
 [积分价值表](https://mp.weixin.qq.com/s/KJ0Ahec5Dwj2QJEDe-svAg)
 
@@ -314,9 +312,6 @@
 ### 华夏银行海航白
 
       华彩生活APP--惠支付--卡片管理----海航白--金鹏积分查询
-      也可在积分商城16：1兑换国航，外加腾讯新闻卡闪付三倍积分。
-      华夏银行信用卡微信公众号——办卡/积分——微商城——积分换礼——搜索国航（5:1）
-
 
 
 # 支付宝权益
