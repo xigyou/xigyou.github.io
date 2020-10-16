@@ -38,7 +38,7 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 
 ## insurance:
 
-| command | comments |
-| :- | :- | 
-| [insurance](https://beyondthe.top/insurance) | [cards](https://beyondthe.top/cards) |
+| command | comments | comments |
+| :- | :- |  :- |
+| [insurance](https://beyondthe.top/insurance) | [cards](https://beyondthe.top/cards) | [buy](https://beyondthe.top/buy) |
 
