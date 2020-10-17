@@ -243,7 +243,7 @@
 
 [乌鲁木齐T2,商务候机室，从出发层进入的话在出发坐手边，楼上永和大王旁边是龙腾的，龙腾也有快速安检](https://www.flyertea.com/thread-2795255-1-1.html)
 
-[乌鲁木齐T3,商务候机室，在T3靠近T2的那边，从出发层进入的话在出发右手边KFC左边](https://www.flyertea.com/thread-2148630-1-1.html)
+[乌鲁木齐T3,商务候机室，在T3靠近T2的那边，从出发层进入的话在出发右手边KFC左边，专车送客登机](https://www.flyertea.com/thread-2148630-1-1.html)
 
 ![T3商务候机室](https://beyondthe.top/img/wlmq_T3_1.jpeg)
 
