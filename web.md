@@ -8,3 +8,8 @@
 | [细数一路的坑](https://www.cnblogs.com/jackyroc/p/7681938.html) | [配置你的 github pages](https://github.com/hoperyy/blog/issues/10) |
 
 | [wordpress](https://wordpress.org/) | [wordpress](https://wordpress.org/) |
+
+
+# 推广链接生成
+
+## [淘宝链接推广](https://pub.alimama.com/myunion.htm?spm=a219t.7473494.1998155389.3.ZK4y4E#!/promo/self/items)
