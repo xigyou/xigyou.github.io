@@ -1,6 +1,9 @@
 # skills
 
 ## Hack
+
+[电子书下载BookSC](https://booksc.xyz/)
+
 [访问内网](https://beyondthe.top/frp)
 
 [远程唤醒电脑](https://beyondthe.top/WOL)
