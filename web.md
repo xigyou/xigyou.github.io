@@ -16,7 +16,7 @@
 
 # 营销系统
 
-## Mautic作为国外最强大的开源自动营销系统(https://zhuanlan.zhihu.com/p/99313282)
+## [Mautic作为国外最强大的开源自动营销系统](https://zhuanlan.zhihu.com/p/99313282)
 
 
 # 素材下载
