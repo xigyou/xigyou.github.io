@@ -10,6 +10,8 @@
 
 # 4、必需使用甘特图
 
-## !(微软官方甘特图模板下载)[]
+## [雁阵](https://app.geeseteam.com/)
 
-## [微软官方甘特图模板下载](https://templates.office.com/zh-CN/Search/results?query=%E7%94%98%E7%89%B9)
+## [微软官方甘特图模板下载,Excel还是没有雁阵方便](https://templates.office.com/zh-CN/Search/results?query=%E7%94%98%E7%89%B9)
+
+
