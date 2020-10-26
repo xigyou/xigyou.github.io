@@ -36,6 +36,8 @@
 
 #### [招行10倍积分刷22240](http://market.cmbchina.com/ccard/vipjh/srjf.html)
 
+#### [农业银行信用卡微信小程序——会员——生日特权——京东E卡]()
+
 ## 接送机
 
 接送机：
