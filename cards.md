@@ -348,6 +348,8 @@
 
 [2019年最新表格汇总：龙腾+接送机+延误险+多倍积分...](https://mp.weixin.qq.com/s/xRHmhUhVWvkw7_Yx6lOByg) 
 
+[2020延误险整理：中行，招行里程票可赔付](https://mp.weixin.qq.com/s?src=11&timestamp=1603849348&ver=2671&signature=HEflZyD7zTb2UEIioI4yJg777DZgfy8rVkeZb0ZPHkytUYAJ5ws03eLSdbsymGoMo6IE64u4icz1rJxw9fMTzHe7q9oexXw3b8vMkuUQJnYWhn9RW2*YztKfbBLB2MO4&new=1)
+
 [佛系用卡——N张信用卡实用表](https://mp.weixin.qq.com/s/cGQtLC7WZEbksWq8IeyD4w)
 
 [错误代码](http://www.taoyuande.com/shiyong/13.html)    [调查表](http://mrw.so/5gG76Z)
