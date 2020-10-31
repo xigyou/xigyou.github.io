@@ -49,7 +49,7 @@
 
 ## [黑中又黑整理信用卡权益](https://shimo.im/docs/WJgvfBnQyiw9fbom/)
 
-## [哪家银行的临时额度可以用？哪家的千万不能用！](http://www.360doc.com/content/19/0419/15/15644483_829906016.shtml)
+## [哪家银行的临时额度可以用？哪家的千万不能用！万一手痒提了临额，恭喜，农行临额到期后，再等6+1，建行临额到期后，再等3个月，才能再提固额。](http://www.360doc.com/content/19/0419/15/15644483_829906016.shtml)
 
 ## [最热门的11张高端白金卡！免年费值得办](https://mp.weixin.qq.com/s/BM647GU-En-xvyVGjkm9_Q)
 ![11张高端卡权益表格](https://beyondthe.top/img/good_cards.jpeg)
