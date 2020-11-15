@@ -19,6 +19,8 @@
 
 ![必备定期寿险+百万医疗](https://beyondthe.top/img/必备定期寿险+百万医疗.jpeg)
 
+[中国人寿如E康悦百万医疗险C款，点解了解详情](https://stiss.e-chinalife.com/aslss/prodSalePage?signature=6f8f6fa45a2e1976a57856abfac7511eb3ef3027975833dc288acec15a27ca33b1be433a6558d46350cb6487df806a5ae017a513287381f94a3c3288b5f7d788565304939ff219b96a2f7db098115facb8ec1f76572442a36141efa0250a3c1ee017a513287381f92582bceb0620d4d1e9e30b35cf8b9bd69742663ac977d3d5b92a3a544003efa4dda44fec69e2c369377466aa06a4118122d8713df229944c58cd2e182b745b48e5e42f7392c9cb327c57e6fd9ab572c8dabec8210214f529e2eeafd91eb91c115644d97e8dc50c6e7c57e6fd9ab572c8f9a307c7a0da62ae2155b2bdbbc7fd0116e61355dfa2f4899f7caa672e489d37abdcfb5e1f79ff8483cb1a1980f6db3b#%7B%22signature%22%3A%2221bf1be0507db97df2ba0794d3ac65cba4fb59d7%22%2C%22appId%22%3A%22wxe752b0137f625797%22%2C%22nonceStr%22%3A%22gvqCUmYUvB%22%2C%22timestamp%22%3A%221605437718%22%7D)
+
 [买不了百万医疗的可以买惠民险,全国可投保的惠民保——360城惠保](https://mp.weixin.qq.com/s/yGQ7oC6GQA-zDMBbeSuuRw)
 
      如果是年纪大、健康状况不好、以及高危职业等被百万医疗排除在外的人群，并且所在的城市没有推出专属的惠民保，那这款360城惠保也是个不错的选择。
