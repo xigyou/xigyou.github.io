@@ -31,6 +31,10 @@
 
 ## [2.5寸双盘位阵列,264元](https://item.jd.com/48903021143.html)
 
+## [麦沃MAIWO K8FSAS 硬盘盒磁盘阵列柜 2.5/3.5英寸全铝八盘串口硬盘SAS存储服务器](https://item.jd.com/10396932253.html)
+
 ## [二手3.5寸SAS盘3T,258](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.12792e8dC0O94C&id=21255191315&_u=c3gcjn554a0)
 
 ## [二手2.5寸SAS盘1T,158](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.12792e8dC0O94C&id=21254599769&_u=c3gcjn56d70)
+
+
