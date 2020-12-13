@@ -60,15 +60,15 @@
 
 ### SUV
 
-[柯珞克 SUV TSI280 智行旗舰版 同级唯一带ACC自适应巡航 ¥159,900 元官方指导价](https://news.bitauto.com/dcdg/20201010/1512836225.html)
+[柯珞克 SUV TSI280 智行旗舰版 同级唯一带ACC自适应巡航 ￥14.29万起](https://news.bitauto.com/dcdg/20201010/1512836225.html)
 
 [斯柯达柯珞克：车载雷达玩得溜安全、便利全都有](https://news.bitauto.com/hao/wenzhang/943156)
 
 [堵车利器 解读柯珞克ACC自适应巡航系统](http://auto.ifeng.com/quanmeiti/20180306/1143733.shtml)
 
-[XC40 智行时尚版起始价格 ¥264,800](https://www.volvocars.com/zh-cn/build/xc/xc40#%e6%97%b6%e5%b0%9a%e7%89%88|filterConventional)
+[XC40 智行时尚版起始价格 经销商21.48万起](https://www.volvocars.com/zh-cn/build/xc/xc40#%e6%97%b6%e5%b0%9a%e7%89%88|filterConventional)
 
 ### 轿车
 
-[速派  TSI380 旗舰版    ¥229,900 元官方指导价](https://www.saicskoda.com.cn/superb/index.html?enter_model=cars)
+[速派  TSI380 旗舰版    经销商￥20.09万起](https://www.saicskoda.com.cn/superb/index.html?enter_model=cars)
 
