@@ -8,6 +8,9 @@
 
 ## [百度网盘Mac不限速版](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS)
 
+# 文件共享
+
+[mac OS 挂载SMB](https://www.jianshu.com/p/4f785ae6c29c)
 
 
 # Mac自带的QuickTime Player就可以录声音
@@ -19,4 +22,4 @@
 
 
 # hardware
-## 
+## [硬件检测及代码]()
