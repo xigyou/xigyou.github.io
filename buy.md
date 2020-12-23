@@ -17,7 +17,13 @@
 
 ### [Mac电脑  主要看硬盘速度](https://www.cnbeta.com/articles/tech/1054395.htm?utm_source=taboola)
 
-[mac电脑速度查询]()
+[按硬盘型号查询](https://ssd.userbenchmark.com/SpeedTest/25611/APPLE-SSD-SM0512G)
+
+[电脑详细信息查询及对比评分](https://www.notebookcheck.net/Reviews.55.0.html)
+
+[机型详细信息的 Blackmagic Disk Speed Test 部分能看到硬盘测评](https://www.notebookcheck.net/Apple-MacBook-Air-2020-M1-Entry-Review-Apple-M1-CPU-humbles-Intel-and-AMD.508057.0.html)
+
+[CPU,显卡排行榜](https://browser.geekbench.com/processor-benchmarks)
 
 [等待PCIe 4.0  NVME 7GB/s的固态硬盘中。](https://baijiahao.baidu.com/s?id=1676609853512097996&wfr=spider&for=pc)
 
