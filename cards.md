@@ -50,6 +50,8 @@
 
 [注册](https://www.sohu.com/a/326158256_683898)
 
+[民生百夫长白金卡官网，一张免费附属卡](https://creditcard.cmbc.com.cn/home/cn/web/product/high/baifu/index.shtml)
+
 ## [民生积点,按账单年](https://www.sohu.com/a/415003294_120617485)
 
 
