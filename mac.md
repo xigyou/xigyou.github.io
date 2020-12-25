@@ -5,6 +5,11 @@
 
 ## [Microsoft Remote Desktop for Mac](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
 
+# Mac 快捷键
+
+## [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
+
+## [Mac 辅助功能快捷键](https://support.apple.com/zh-cn/HT204434)
 
 ## [百度网盘Mac不限速版](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS)
 
@@ -23,3 +28,9 @@
 
 # hardware
 ## [硬件检测及代码]()
+
+# 系统安装
+
+## [如何重新安装 macOS](https://support.apple.com/zh-cn/HT204904)
+
+## [如何创建可引导的 macOS 安装器](https://support.apple.com/zh-cn/HT201372)
