@@ -12,6 +12,8 @@
 
 [挂载远程文件夹的方法有,推荐zerotier+SMB](https://www.cnblogs.com/focus-g/p/11367181.html)
 
+[Trojan 客户端设置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/292b1c7e68fb2f0d7fe25a1e602d25b41a9c782f/README.md)
+
 ## 打印机相关
 [共享极路由上的USB打印机](https://stray.love/hiwifi/ji-lu-you-virualhere-jiao-cheng)
 
