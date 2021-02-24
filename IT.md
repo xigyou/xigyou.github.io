@@ -2,6 +2,8 @@
 
 ## Hack
 
+[极米电视盒子装软件](http://www.mayiapk.com/)
+
 [电子书下载BookSC](https://booksc.xyz/)
 
 [中国铁路地图](http://cnrail.geogv.org/zhcn/)
