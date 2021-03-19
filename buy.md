@@ -58,7 +58,7 @@
 
 ### SUV
 
-[长城 第三代哈弗H6 2.0T智能四驱版](https://news.bitauto.com/hao/wenzhang/37073888)
+[长城 第三代哈弗H6 2.0T智能四驱版 15.49万](https://www.haval.com.cn/3rd-h6/)
 
 [三菱]()
 
