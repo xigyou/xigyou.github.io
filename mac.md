@@ -3,6 +3,7 @@
 ### [MS office 2016 激活软件](https://beyondthe.top/soft/Office%20for%20Mac%202016%20License%20Installer.pkg)
 ### [MS office 2016 使用方法](http://www.chinamac.com/download/mac7059.html)
 ### [SMART Utility](https://beyondthe.top/soft/smartutility326.zip)
+### [wear leveling count不能低于阈值](https://discussions.apple.com/thread/3546179?page=1)
 
 ## [Microsoft Remote Desktop for Mac](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
 
