@@ -8,13 +8,13 @@
 
 # [《中华医药》祝总骧和他的312 20111102 三一二锻炼法 ](https://tv.cctv.com/2011/11/02/VIDE1356350985452190.shtml)
 
-![合谷内关足三里](beyonthe.top/img/acupuncture.png)
+![合谷内关足三里](https://beyonthe.top/img/acupuncture.png)
 
-![合谷穴](https://beyonthe.top/img/heguxue.png)
+![合谷穴](https://beyondthe.top/img/heguxue.png)
 
-![内关穴](https://beyonthe.top/img/neiguanxue.png)
+![内关穴](https://beyondthe.top/img/neiguanxue.png)
 
-![足三里穴](https://beyonthe.top/img/zusanlixue.png)
+![足三里穴](https://beyondthe.top/img/zusanlixue.png)
 
 ## [祝总骧 百度百科 ](https://baike.baidu.com/item/%E7%A5%9D%E6%80%BB%E9%AA%A7/2045318)
 
