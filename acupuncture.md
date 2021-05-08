@@ -22,6 +22,8 @@
 
 # 相关书籍资料
 
+![祝总骧学术成果](https://beyondthe.top/img/zhuzongxiangxueshu.png)
+
 ## [针灸经络生物物理学 点击下载PDF](https://beyondthe.top/pdf/)
 
 ## [三一二经络锻炼法 点击下载PDF](https://beyondthe.top/pdf/三一二经络锻炼法.pdf)
