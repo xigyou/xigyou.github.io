@@ -1,4 +1,4 @@
-# [西医扒皮抽筋找不到的经络，是如何被猛男中医黑搞定的？ ](https://mp.weixin.qq.com/s/1CYwFVUmtySgnLqf4ZpAhQ)
+# [西医扒皮抽筋找不到的经络，是如何被中医黑搞定的？ ](https://mp.weixin.qq.com/s/1CYwFVUmtySgnLqf4ZpAhQ)
 
 ## [美国中医发展史：中医是如何通杀硅谷美军最后杀入各州政府医保？](https://mp.weixin.qq.com/s/xvoP2_7CK19onsdWw8YaXA)
 
