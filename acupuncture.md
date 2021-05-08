@@ -14,7 +14,7 @@
 
 ![内关穴](https://beyondthe.top/img/neiguanxue.png)
 
-![足三里穴](https://beyondthe.top/img/zusanlixue.png)
+![足三里穴](https://beyondthe.top/img/zusanlixue.jpeg)
 
 ## [祝总骧 百度百科 ](https://baike.baidu.com/item/%E7%A5%9D%E6%80%BB%E9%AA%A7/2045318)
 
