@@ -8,7 +8,7 @@
 
 # [《中华医药》祝总骧和他的312 20111102 三一二锻炼法 ](https://tv.cctv.com/2011/11/02/VIDE1356350985452190.shtml)
 
-![合谷内关足三里](https://beyonthe.top/img/acupuncture.png)
+![合谷内关足三里](https://beyondthe.top/img/acupuncture.png)
 
 ![合谷穴](https://beyondthe.top/img/heguxue.png)
 
@@ -22,11 +22,11 @@
 
 # 相关书籍资料
 
-## [针灸经络生物物理学](https://beyonthe.top/pdf/)
+## [针灸经络生物物理学 点击下载PDF](https://beyonthe.top/pdf/)
 
-## [三一二经络锻炼法](https://beyonthe.top/pdf/三一二经络锻炼法.pdf)
+## [三一二经络锻炼法 点击下载PDF](https://beyonthe.top/pdf/三一二经络锻炼法.pdf)
 
-## [针灸与东方医学学院委员洁针技术指南](https://www.ccaom.org/images/ccaom/Documents/7th_Edition_Manual_Chinese_June_2017.pdf)
+## [针灸与东方医学学院委员洁针技术指南 点击下载PDF](https://www.ccaom.org/images/ccaom/Documents/7th_Edition_Manual_Chinese_June_2017.pdf)
 
 ## [美国针灸和东方医学学院委员会(CCAOM)](https://www.nccaom.org/about-us/)
 
