@@ -1,5 +1,12 @@
 # linux
 
+## SSH
+
+[SecureCRT windows](https://blog.csdn.net/dujie1219/article/details/110162060)
+
+[SecureCRT Mac](https://www.macapp.so/securecrt-for-mac/)
+
+
 ## basic
 [Linux下各文件夹的含义和用途](https://www.cnblogs.com/lanqingzhou/p/8037269.html)
 
