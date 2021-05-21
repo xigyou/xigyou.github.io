@@ -39,6 +39,11 @@ brew install Caskroom/cask/osxfuse
 
 [mac OS 挂载SMB]（https://www.jianshu.com/p/4f785ae6c29c）
 
+
+## 文件传输
+
+[Mac与Android文件传输工具 Android File Transfer 安卓官方](https://blog.csdn.net/elonspace/article/details/51894935)
+
 # 教育邮箱可以申请福利
 [Office 365 教育版注册](https://www.microsoft.com/zh-cn/education/products/office/default.aspx)
 
