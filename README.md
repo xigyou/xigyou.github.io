@@ -25,7 +25,12 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 | [Mac](https://beyondthe.top/mac) | [web](https://beyondthe.top/web) |
 
 # Work
+
 ## [OKR](https://beyondthe.top/OKR)
+
+# Study
+## [papers](https://beyondthe.top/papers)
+
 
 ## cards:
 
