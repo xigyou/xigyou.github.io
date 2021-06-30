@@ -77,17 +77,17 @@
 
 [积分价值表](https://mp.weixin.qq.com/s/KJ0Ahec5Dwj2QJEDe-svAg)
 
-工行换京东卡/WeHotel积分
+工行南航白、香白，综合积分换微信刷卡金
 
-农行换里程
+农行南航金、综合积分换里程
 
 中行
 
-建行中石化油卡
+建行综合积分换中石化油卡
 
-交行年费里程
+交行综合积分换年费里程
 
-邮储换天猫券，有两个版本，搜索天猫
+邮储积分换京东卡，天猫券有两个版本，搜索天猫
 
 招行1299积分兑换百度网盘超级会员月卡。
 
@@ -151,20 +151,6 @@
 
 ### 过三个月后 第2批
 
-[浦发AE白,浦发美国运通白金卡，5次接送机，龙腾7人次](https://www.flyertea.com/plugin.php?id=creditcard&mod=view&sid=286)
-
-[浦发AE白网申链接，翻到最后](https://ecentre.spdbccc.com.cn/creditcard/indexActivity.htm?data=F1809051549034056318)
-
-![浦发AE白图片](https://beyondthe.top/img/AE_bai.jpeg)
-
-[农行悠然白,1万起批，可拿VIP号，20：1换里程，精粹白不好下](https://wx.abchina.com/CreditCard/netBank/webank/Main.aspx?encontent=37dff4f0d6463d39dc70bee8e96fa4e0959897e42b31dc2060e209fdd82cfb0855ffd8bed5c753ec6ee779d2f74421d626efdbd66e4d859a8f6e887a22e206260b5f30d1b309896380b08603d79eaa6f5e6937acb2078ab4ca874170ffa66d8b13cfb2f419ba5766bf818f70c56c780cb50e25982511aad6944dfcd29e1f545fa10be4acb3f0dc71bd9a988f1da7c1688d1bb6e813ae25e5fd6b851a02c7b297c55acd23d74e3d239c7e5b8d7c99813139fcf880dd9f565509dc2b1d653a1dd7d07441a2d6936b0135f6b19c8f89a1a6de3adbfedf4d3ada2ccbd68647ed9f12594e66a4db05a474c23c84f8d5ce9877fac2507a58ed216d)
-
-
-[交行白麒麟，交通银行白金信用卡银联单标版，24次CIP+24次龙腾，带人神卡](https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=2261146&saleCode=&entryRecomId=null&trackCode=A072923332389&isNewCardMgm=2&from=singlemessage)
-
-
-### 再过三个月后 第3批
-
 [工行香白，全币种，工行最换算的卡，刷15笔免次年费](https://mp.weixin.qq.com/s/eEMsuGmKOSUmlE2anEym0A)
 
 ![国贸香白，1年刷15次免次年年费](https://beyondthe.top/img/xiangbai.jpeg)
@@ -188,16 +174,19 @@
       如果测算几秒钟，能获得金闪借额度，不要借，离开融e借额度，返回首页-信用卡-额度管理，尝试去提额，一般能提到的固定额度就是测评出的金闪借额度。
       金闪借不要总点，点一次上一次征信
       
-      
 
-[华夏海航白,微信公众号“华夏银行信用卡”申请](https://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2017/07/17452.shtml)
+
+[农行悠然白,1万起批，可拿VIP号，20：1换里程，精粹白不好下](https://wx.abchina.com/CreditCard/netBank/webank/Main.aspx?encontent=37dff4f0d6463d39dc70bee8e96fa4e0959897e42b31dc2060e209fdd82cfb0855ffd8bed5c753ec6ee779d2f74421d626efdbd66e4d859a8f6e887a22e206260b5f30d1b309896380b08603d79eaa6f5e6937acb2078ab4ca874170ffa66d8b13cfb2f419ba5766bf818f70c56c780cb50e25982511aad6944dfcd29e1f545fa10be4acb3f0dc71bd9a988f1da7c1688d1bb6e813ae25e5fd6b851a02c7b297c55acd23d74e3d239c7e5b8d7c99813139fcf880dd9f565509dc2b1d653a1dd7d07441a2d6936b0135f6b19c8f89a1a6de3adbfedf4d3ada2ccbd68647ed9f12594e66a4db05a474c23c84f8d5ce9877fac2507a58ed216d)
+
+[交行白麒麟，交通银行白金信用卡银联单标版，24次CIP+24次龙腾，带人神卡](https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=2261146&saleCode=&entryRecomId=null&trackCode=A072923332389&isNewCardMgm=2&from=singlemessage)
+
+
+### 再过三个月后 第3批
+
 
 [民生精英白-无限PP，香毫白有年费，香标白免年费 累计香格里拉积分神卡](https://creditcard.cmbc.com.cn/wsv2/smp_web/mgm/recomAcceptBC_v1.html?rKey=f7b775ba1a772894db72517ad85e70963e106ae8affe105e8b4de1802a5085aea88753f9e1fc5fa865eb95780a3f623f&rpKey=2f2731c9b1a632457dd823e2b157c28a4d2b4cffa6129b269b7f911e540382ede8e8a27a686c594f0e786fbe00ba3fc7bc9f83fd2c4496b2565163d4c870e066&ct=1569253783648)
 
 [民生后续加办 金熊猫白金卡银联单标，免年费 10：1换川航](https://creditcard.cmbc.com.cn/home/cn/web/product/travel/chuanhang/index.shtml)不要用了
-
-
-### 再过三个月后 第4批
 
 [汇丰东航联名信用卡](https://www.hsbc.com.cn/credit-cards/products/cea/)
 
@@ -207,12 +196,20 @@
     活动报名与领奖：汇丰银行APP——首页——积分平台——用卡活动——我的活动
 
 [中信小米联名卡](https://mp.weixin.qq.com/s/8WYu8eNQMvxhIEodvjRHvw)
+[额度4万以上可以加办中信南航白，不到4万办金卡](https://creditcard.ecitic.com/shenqing/nanhangka.shtml)
+
+
+### 再过三个月后 第4批
 
 [兴业人保财险联名信用卡白金卡（精英版）+南航白12比1](http://creditcard.cib.com.cn/apply/products/ZTseries/PICC.html)
 
 [广发犀利卡返现+广发国寿白+广发钻石无限卡](http://www.cgbchina.com.cn/Info/21278512)
 
 [广发川航联名信用卡金卡 14:1换川航](http://www.flyertea.com/plugin.php?id=creditcard&mod=view&sid=2847)
+
+[东航浦发联名钛金卡14:1，微支有分](https://ecentre.spdbccc.com.cn/pcoa/ao.do?WSOA=SPDB100052&flag=0)
+
+[华夏海航白18:1插卡或者pay才有分，微支没分,微信公众号“华夏银行信用卡”申请](https://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2017/07/17452.shtml)
 
 [平安百夫长](https://mp.weixin.qq.com/s/zViXSdHXV-n7m4_Yo8ei5A)
 
