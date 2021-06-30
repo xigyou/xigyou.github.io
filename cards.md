@@ -224,7 +224,7 @@
 
 [中行国航白（微支有分）](https://www.boc.cn/bcservice/bc1/201401/t20140128_2873166.html)
 
-[建行国航白,东航白12:1银联单标]（http://creditcard.ccb.com/cn/creditcard/card_list.html?isapplyB=1&isvisible=2）
+[建行国航白,东航白12:1银联单标](http://creditcard.ccb.com/cn/creditcard/card_list.html?isapplyB=1&isvisible=2)
 
 [交行优逸白](https://creditcard.bankcomm.com/content/dam/pc/bjk/youyi/youyi.html)
 
