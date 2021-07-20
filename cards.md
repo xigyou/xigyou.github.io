@@ -19,15 +19,22 @@
 | 1月1日 | [浦发兑换里程]() | 喜大普奔——里程兑换 |
 
 
+## 京东92折慢充话费
+90-2话费卷
+https://u.jd.com/OTMBY9h
+92元 慢充100元话费
+https://u.jd.com/OcMBgGF
 
 
-### [无积分](https://mp.weixin.qq.com/s/RHLM1egWubvC6e3v6LDK6g)
+### [无积分](https://mp.weixin.qq.com/s/SMlI1GULyLoP2fK1QAYkJw)
 
 民生信用卡：2020.8.1起
 
 光大信用卡：2020.11.1起
 
 华夏信用卡：2020.11.14起
+
+邮储信用卡：2021.9.1起
 
 
 ### 生日
