@@ -78,3 +78,5 @@
 
 [速派  TSI380 旗舰版    经销商￥20.09万起](https://www.saicskoda.com.cn/superb/index.html?enter_model=cars)
 
+[斯柯达明锐PRO](https://new.qq.com/omn/20210706/20210706A05Q6T00.html)
+
