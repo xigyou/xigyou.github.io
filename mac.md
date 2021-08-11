@@ -31,6 +31,7 @@
 ## [mac硬件检测方法及代码](https://support.apple.com/zh-cn/HT203747)
 ### [SMART Utility](https://beyondthe.top/soft/smartutility326.zip)
 ### [wear leveling count不能低于阈值](https://discussions.apple.com/thread/3546179?page=1)
+### [Blackmagic Disk Speed Test测硬盘速度](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12)
 
 # 系统安装
 
