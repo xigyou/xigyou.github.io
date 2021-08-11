@@ -28,6 +28,7 @@
 
 
 # hardware
+## [拆箱的时候找人拍摄视频录像，然后检查外观，看是否能正常开机。]()
 ## [mac硬件检测方法及代码](https://support.apple.com/zh-cn/HT203747)
 ### [SMART Utility](https://beyondthe.top/soft/smartutility326.zip)
 ### [wear leveling count不能低于阈值](https://discussions.apple.com/thread/3546179?page=1)
