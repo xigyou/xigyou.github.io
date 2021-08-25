@@ -7,6 +7,8 @@
 
 ### [EndNote: Apple M1 chip compatibility](https://support.clarivate.com/Endnote/s/article/EndNote-Apple-M1-chip-compatibility?language=en_US)
 
+### [EndNote offers more than 6,000 bibliographic styles download](https://endnote.com/downloads/styles/)
+
 ## [Microsoft Remote Desktop for Mac](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
 
 # Mac 快捷键
