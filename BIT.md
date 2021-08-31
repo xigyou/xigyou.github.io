@@ -5,3 +5,7 @@
 [OneNote 做出来的笔记颜值能有多高？]（https://www.zhihu.com/question/57139472）
 
 []()
+
+# 实验相关
+
+[primer premier(基因分析软件) v6.0 32位/64位破解版](https://www.anxz.com/down/21650.html)
