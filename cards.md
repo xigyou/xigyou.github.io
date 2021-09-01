@@ -75,6 +75,7 @@ https://u.jd.com/OcMBgGF
 
 [京东价格保护，没事多点点](https://pcsitepp-fm.jd.com)
 
+[88折充油权益别过期！蜜蜂97高价回收平安88油](https://mp.weixin.qq.com/s/MEAow2HeTnl3PnyIT5IH1g)
 
 ## 星巴克券等
 ![心动club](https://beyondthe.top/img/xindong_club.png)
