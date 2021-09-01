@@ -72,6 +72,24 @@ brew install Caskroom/cask/osxfuse
 
 [希捷保修查询](https://www.seagate.com/cn/zh/support/warranty-and-replacements/)
 
+### 硬盘/闪存跑分排行榜
+
+[iOS Disk Mark Rating 闪存跑分排行榜](https://www.iphonebenchmark.net/diskmark_chart.html)
+
+[AndroBench 5](http://www.androbench.org/wiki/AndroBench)
+
+[具体闪存读写速度到www.notebookcheck.net的Reviews栏目搜索产品，产品里面有和别的产品的比较](https://www.notebookcheck.net/Reviews.55.0.html)
+
+### CPU跑分排行榜
+[最专业的移动设备CPU评分smartphone and tablet processor performance](https://www.notebookcheck.net/Smartphone-Processors-Benchmark-List.149513.0.html)
+
+[Geekbench 5 CPU跑分](https://browser.geekbench.com/processor-benchmarks)
+
+[PerformanceTest CPU Benchmarks CPU单核跑分，含服务器CPU](https://www.cpubenchmark.net/singleThread.html)
+
+[服务器CPU多核跑分](https://www.cpubenchmark.net/multi_cpu.html)
+
+
 ## VOLTE视频电话
 
 [移动10086说不走套餐分钟数，拨打0.29元/分钟，接听免费，不计流量费用 iPhone 7及以上 系统23.1](http://www.10086.cn/volte/volte_phone/)
