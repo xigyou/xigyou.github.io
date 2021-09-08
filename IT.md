@@ -39,6 +39,14 @@ brew install Caskroom/cask/osxfuse
 
 [mac OS 挂载SMB](https://www.jianshu.com/p/4f785ae6c29c)
 
+## 网盘挂载到本地
+
+[国内CloudDrive1.1.40 (新增挂载为网络盘) ](https://www.52pojie.cn/thread-1490131-1-1.html)
+
+[国外的网盘用RaiDrive](http://www.raidrive.com/plans)
+
+[手机用ES文件管理器]()
+
 
 ## 文件传输
 
