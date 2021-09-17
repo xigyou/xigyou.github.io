@@ -49,9 +49,9 @@ https://u.jd.com/OcMBgGF
 
 接送机：
 
-五环外：建行龙腾3.31、邮储开卡年（盛大范围广，用完盛大可以到龙腾APP看看，可约商务）、浦发核卡年（50Km，商务车6人1.5个点）
+大兴机场+首都机场：北京银行75公里app下单，不能改手机号；邮储信用卡app-盛大不能改手机号。
+仅首都机场：浦发2次app下单，不能改手机号；平安6次app下单，不能改手机号；建行龙腾3.31更新3次app下单，可以改手机号。
 
-五环内：北京可累计（75公里、可约商务车）
 
 ## 关注微信订阅号《美国运通旅行及生活礼宾服务》
 
@@ -272,26 +272,13 @@ https://u.jd.com/OcMBgGF
 
 
 ### 机场贵宾楼攻略
+招行掌上生活app里面地址写的比较清楚。
 
+#### 北京首都
 
-#### 需预约
+VIP需预约    [广发大白无限次，2500年费、民生200积点每人，百夫长可带1人](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
 
-[北京首都T1 国内贵宾区，需预约，泡面10块，没饭，广发大白无限次，2500年费、民生200积点](http://www.flyertea.com/forum.php?mod=viewthread&tid=3150559)
-
-[杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
-
-     白麒麟 请提前4小时通过预约电话0571-86665666进行预约
-     民生200积点电话预约
-
-[昆明长水机场,电话报车牌](http://www.flyertea.com/article-402786-1.html)
-
-
-
-#### 巴中机场 PP 龙腾 无需预约
-
-#### 北京CIP 无需预约
-
-[北京首都T1, 2号门右侧廊桥50米，CIP能优先登机]()
+CIP无需预约
 
 [北京首都T2, 8号门 CIP能优先登机]()
 
@@ -302,13 +289,22 @@ https://u.jd.com/OcMBgGF
     T3D 只有国航休息室，只能用pp，龙腾不能用。。
 
     T3E PP
+       
 
+#### 北京大兴
 
-#### [北京大兴安检前，建行CIP，南航机票3层7号门进VIP3柜台 所有航班登机口B20二层浮岛,安检后推荐南航的。](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+VIP需预约    [民生200积点每人，百夫长可带1人]
 
-#### [北京大兴安检前，JCB贵宾厅，特别是大兴机场安检外5层老舍茶馆](http://www2.jsj.com.cn/vip/query)
+CIP无需预约
+
+[南航、厦航   安检前   建行CIP、招行CIP（可带人）。3层7号门进VIP3柜台 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+
+[所有航班     安检前   三次8号门进入M岛岛尾、头等舱安检通道旁边CHUM嘉宾休息室 安检后 登机口B20二层浮岛 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+
+[北京大兴安检前，JCB贵宾厅，特别是大兴机场安检外5层老舍茶馆](http://www2.jsj.com.cn/vip/query)
 
 [使用方法](http://www.jcbcard.cn/campaign/china_airpotlounge.html)
+
      中国大陆发行JCB金卡及以上持卡人，通过本活动专用预约页面申请专用二维码，持活动二维码及有效JCB信用卡进入贵宾厅，并向工作人员报"空铁管家"，即可免费享受境内多家机场及高铁贵宾厅服务。
 
      第一步：点击JCB活动专用链接
@@ -319,6 +315,28 @@ https://u.jd.com/OcMBgGF
      ※活动二维码领取后当日有效（当日指贵宾厅所在地24点之前）；
      ※本活动每张卡、每个手机号、每天限领两次；
      ※一个进厅二维码只能使用一次，获取请查收短信；
+     
+ [南航、厦航、重庆、河北    安检后B指廊尽头B26-B33登机口南航休息室。  工行、邮储、平安、PP、龙腾、各种银行  ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+ 
+ [所有航班   安检后:登机口B20二层浮岛    工行、邮储、平安、PP、龙腾、各种银行](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+
+
+
+
+#### [杭州,需要预约](http://www.flyertea.com/thread-2718146-1-1.html)
+
+     白麒麟 请提前4小时通过预约电话0571-86665666进行预约
+     民生200积点电话预约
+
+#### [昆明长水机场需预约,电话报车牌](http://www.flyertea.com/article-402786-1.html)
+
+
+#### [宁波栎社机场VIP需预约,建行大山白电话预约，招行可带人]（）
+航站楼CIP无需预约
+
+
+
+#### 巴中机场 PP 龙腾 无需预约
 
 
 #### 无需预约
