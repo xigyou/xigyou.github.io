@@ -297,7 +297,7 @@ VIP需预约    [民生200积点每人，百夫长可带1人]
 
 CIP无需预约
 
-[南航、厦航   安检前   建行CIP、招行CIP（可带人）。3层7号门进VIP3柜台 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+[南航、厦航   安检前   建行CIP、招行CIP（经典白可带1人，百夫长3人）。3层7号门进VIP3柜台 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
 
 [所有航班     安检前   三次8号门进入M岛岛尾、头等舱安检通道旁边CHUM嘉宾休息室 安检后 登机口B20二层浮岛 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
 
