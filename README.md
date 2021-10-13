@@ -7,13 +7,11 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 
 # Bioinformatics
 
+## chart
 | command | comments |
 | :- | :- | 
 | [biosoft](https://beyondthe.top/biosoft) | [pipeline](https://beyondthe.top/pipeline) |
 | [Basic Shell](https://onedrive.live.com/view.aspx?resid=F1A9DC6EB2E813FD%21134&id=documents&wd=target%28Shell.one%7C66870DBA-C1E2-4A63-9AC0-BDC38E988724%2F%E5%B8%B8%E7%94%A8shell%E5%91%BD%E4%BB%A4%7C7BF9DA4E-3259-8A41-A54D-4301E50DD88F%2F%29) | [database](https://beyondthe.top/database) |
-
-## Basic Shell
-### chart
 
 ## Pipeline develop
 [Web of Best practices for bioinformatics develop.](https://beyondthe.top/bioinfo-dev/)
