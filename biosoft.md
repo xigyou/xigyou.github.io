@@ -4,7 +4,9 @@
 
 ## conda install
 conda create -n samtools_1.13 -c bioconda samtools=1.13 -y
+
 conda activate samtools_1.13
+
 conda deactivate
 
 
