@@ -47,7 +47,7 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 
 ## insurance:
 
-| command | comments | comments |
-| :- | :- |  :- |
-| [insurance](https://beyondthe.top/insurance) | [acupuncture](https://beyondthe.top/acupuncture) | [buy](https://beyondthe.top/buy) |
+| command | comments | comments | comments |
+| :- | :- |  :- |  :- |
+| [insurance](https://beyondthe.top/insurance) | [acupuncture](https://beyondthe.top/acupuncture) | [buy](https://beyondthe.top/buy) | [Travel](https://beyondthe.top/Travel) |
 
