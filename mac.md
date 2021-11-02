@@ -11,6 +11,11 @@
 
 ## [Microsoft Remote Desktop for Mac](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
 
+# Mac 常用技巧
+
+### [修改host sudo vi /etc/hosts ，上github](https://www.jianshu.com/p/471aeba64724)
+
+
 # Mac 快捷键
 
 ## [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
