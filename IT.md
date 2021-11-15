@@ -2,7 +2,7 @@
 
 ## Hack
 
-[极米电视盒子装软件](http://www.mayiapk.com/)
+[极米电视盒子装软件](http://www.shafa.com/methods)
 
 [电子书下载BookSC](https://booksc.xyz/)
 
