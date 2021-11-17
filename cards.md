@@ -25,8 +25,9 @@ https://u.jd.com/OTMBY9h
 92元 慢充100元话费
 https://u.jd.com/OcMBgGF
 
-[虚拟定位](https://beyondthe.top/apk/FakeLocation_CN_v1.3.0.2_1023_20210627003358.apk)
+[虚拟定位app](https://beyondthe.top/apk/FakeLocation_CN_v1.3.0.2_1023_20210627003358.apk)
 
+[https://fakeloc.cc/app](https://fakeloc.cc/app)
 
 
 
