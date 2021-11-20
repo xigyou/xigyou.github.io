@@ -5,3 +5,5 @@
 
 ## 行政人事
 ### [五险一金及税后工资计算器](http://salarycalculator.sinaapp.com/city/beijing/)
+
+### [工伤计算器](http://www.lawyouknow.com/product/gs.html)
