@@ -1,5 +1,9 @@
 # linux
 
+## hosts修改，访问github
+
+[GitHub520](https://github.com/521xueweihan/GitHub520)
+
 ## SSH
 
 [SecureCRT windows](https://blog.csdn.net/dujie1219/article/details/110162060)
@@ -11,6 +15,9 @@
 [Linux下各文件夹的含义和用途](https://www.cnblogs.com/lanqingzhou/p/8037269.html)
 
 ## CentOS
+
+[frp反向代理](https://gofrp.org/docs/)
+
 [远程唤醒电脑](https://beyondthe.top/WOL)
 
 [挂载远程文件夹的方法有,推荐zerotier+SMB](https://www.cnblogs.com/focus-g/p/11367181.html)
