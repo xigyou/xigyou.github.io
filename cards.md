@@ -302,11 +302,12 @@ VIP需预约    [民生200积点每人，百夫长可带1人]
 
 CIP无需预约
 
-[南航、厦航   安检前   建行CIP、招行CIP（经典白可带1人，百夫长3人）。3层7号门进VIP3柜台 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+[南航、厦航   安检前   建行CIP、招行CIP（经典白可带1人，其实不看，百夫长3人）。3层7号门进南航VIP值机区 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
 
-[所有航班     安检前   三次8号门进入M岛岛尾、头等舱安检通道旁边CHUM嘉宾休息室 安检后 登机口B20二层浮岛 ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+[所有航班     安检前   三层8号门进入M岛岛尾、头等舱安检通道旁边CHUM嘉宾休息室 安检后 登机口B20二层浮岛 （龙腾可以CIP+贵宾厅，PP没有CIP，只有贵宾厅） ](http://www.ccb.com/cn/home/privatebank/service/377375.html)
+交行，平安，工行龙腾，邮储龙腾，等可以带人。 PP可以刷多张卡。
 
-[北京大兴安检前，JCB贵宾厅，特别是大兴机场安检外5层老舍茶馆](http://www2.jsj.com.cn/vip/query)
+[北京大兴安检前，JCB贵宾厅，特别是大兴机场安检外5层老舍茶馆，龙腾可以可以不看票直接刷，适合接送人休息](http://www2.jsj.com.cn/vip/query)
 
 [使用方法](http://www.jcbcard.cn/campaign/china_airpotlounge.html)
 
