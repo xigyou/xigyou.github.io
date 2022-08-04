@@ -44,6 +44,9 @@
 ### [wear leveling count不能低于阈值](https://discussions.apple.com/thread/3546179?page=1)
 ### [Blackmagic Disk Speed Test测硬盘速度](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12)
 
+## [识别 MacBook Air 机型](https://support.apple.com/zh-cn/HT201862)
+## [识别 MacBook Pro 机型](https://support.apple.com/zh-cn/HT201300)
+
 # 系统安装
 
 ## [如何重新安装 macOS](https://support.apple.com/zh-cn/HT204904)
