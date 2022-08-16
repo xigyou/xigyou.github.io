@@ -15,6 +15,7 @@
 
 ### [修改host sudo vi /etc/hosts ，上github](https://www.jianshu.com/p/471aeba64724)
 
+### [Documents on your iPad or iPhone 同步备份iPhone](https://support.readdle.com/documents/synchronization/set-up-sync-with-mac-via-sftp)
 
 # Mac 快捷键
 
