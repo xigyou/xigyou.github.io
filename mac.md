@@ -13,6 +13,8 @@
 
 # Mac 常用技巧
 
+### [TimeMachineEditor设置备份时间](https://tclementdev.com/timemachineeditor/)
+
 ### [修改host sudo vi /etc/hosts ，上github](https://www.jianshu.com/p/471aeba64724)
 
 ### [Documents on your iPad or iPhone 同步备份iPhone](https://support.readdle.com/documents/synchronization/set-up-sync-with-mac-via-sftp)
