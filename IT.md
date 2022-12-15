@@ -31,6 +31,8 @@ brew install Caskroom/cask/osxfuse
 
 [windows](https://beyondthe.top/soft/SFTPDriveV2.exe)
 
+[windows SFTP Drive 2022](https://www.nsoftware.com/download/download.aspx?sku=NDXH-A&type=free)
+
 ## SMB自动挂载
 
 [自动挂载SMB文件系统](https://help.aliyun.com/document_detail/91477.html?spm=5176.12818093.0.dexternal.45d216d0P9L7er)
