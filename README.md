@@ -27,6 +27,7 @@ beyondthe.top is a place I share some study practise. I hope more poeple can get
 | :- | :- | 
 | [IT](https://beyondthe.top/IT) | [web](https://beyondthe.top/web) |
 | [Mac](https://beyondthe.top/mac) | [有外网动态IP无80端口自建多个网站梳理](https://beyondthe.top/nginx) |
+|[softwareadvice](https://www.softwareadvice.com/)||
 
 # Work
 
