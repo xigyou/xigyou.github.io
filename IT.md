@@ -118,7 +118,9 @@ brew install Caskroom/cask/osxfuse
 
 ## 宽带
 
-### 北京联通（最佳安装时机每年5.17世界通讯日5折）
+### 北京联通（最佳安装时机每年5.17世界通讯日5折，异地同享划算）
+
+[北京联通宽带测速](http://cs1.bbn.com.cn:8800/gzweb/)
 
 [北京联通66元50M宽带](https://openapp.10010.com/bj/single/to_singleBill.action?channel=BDWZX1025)
 
